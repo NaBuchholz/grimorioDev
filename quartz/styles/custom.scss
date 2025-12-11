@@ -1,3 +1,74 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+/* --- Paleta principal --- */
+:root {
+  --grim-bg: #0b1220;            /* Azul profundo quase preto */
+  --grim-bg-soft: #0f1724;       /* Azul mais claro */
+  --grim-surface: #141c2b;       /* Cartões e containers */
+  --grim-text: #e6eef6;          /* Texto principal */
+  --grim-muted: #9fb3c8;         /* Texto secundário */
+  --grim-primary: #4dd3b6;       /* Verde-água arcano */
+  --grim-accent: #6f5aff;        /* Roxo suave */
+  --grim-glow: rgba(111, 90, 255, 0.25);
+  --grim-green-glow: rgba(77, 211, 182, 0.20);
+}
+
+/* --- Fundo geral --- */
+body {
+  background: linear-gradient(180deg, var(--grim-bg) 0%, #071022 100%);
+  color: var(--grim-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* --- Links --- */
+a {
+  color: var(--grim-primary);
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+a:hover {
+  color: var(--grim-accent);
+  text-shadow: 0 0 8px var(--grim-glow);
+}
+
+/* --- Containers e cartões (páginas, listas, tags) --- */
+.page,
+.folder,
+.tag-entry,
+.listing-card {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 6px 18px rgba(2, 8, 23, 0.6);
+  transition: 0.2s ease;
+}
+
+/* Hover com brilho arcano */
+.page:hover,
+.folder:hover,
+.listing-card:hover {
+  border-color: rgba(124, 108, 255, 0.2);
+  box-shadow: 0 8px 24px rgba(111, 90, 255, 0.25);
+}
+
+/* --- Cabeçalhos --- */
+h1, h2, h3, h4, h5 {
+  color: var(--grim-text);
+  letter-spacing: -0.01em;
+  font-weight: 600;
+}
+
+/* --- Código --- */
+pre, code {
+  background: rgba(10, 14, 20, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 8px;
+  color: var(--grim-text);
+}
+
+/* --- Destaques de texto --- */
+::selection {
+  background: var(--grim-accent);
+  color: var(--grim-text);
+}

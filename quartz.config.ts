@@ -8,51 +8,60 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "🧙‍♀️ grimorioDev — Jardim Digital",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "pt-BR",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Inter",
+        body: "Inter",
+        code: "JetBrains Mono",
       },
+
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          // Fundo azul profundo suave
+          light: "#0f1724",
+          lightgray: "#1b2332",
+          gray: "#3c4858",
+          darkgray: "#a9b8cc",
+          dark: "#e6eef6",
+
+          // Paleta arcana (verde água + roxo)
+          secondary: "#5eead4",   // acento principal
+          tertiary: "#7c6cff",    // toque roxo (menus / destaque)
+
+          highlight: "rgba(94,234,212,0.12)",    // verde água fraco
+          textHighlight: "rgba(124,108,255,0.45)", // seleção roxa fina
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#0b1220",          // quase preto azulado
+          lightgray: "#141c2b",
+          gray: "#3a4557",
+          darkgray: "#c2cede",
+          dark: "#e6eef6",
+
+          secondary: "#4dd3b6",   // verde-água brilhante
+          tertiary: "#6f5aff",    // roxo
+
+          highlight: "rgba(77,211,182,0.12)",
+          textHighlight: "rgba(111,90,255,0.45)",
         },
       },
     },
   },
+
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
@@ -88,7 +97,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
