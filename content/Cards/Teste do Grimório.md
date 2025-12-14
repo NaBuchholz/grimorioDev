@@ -4,7 +4,7 @@ tags:
   - Study
   - public
 aliases: 
-status: Draft
+status: Done
 relatedTo: []
 ---
 
