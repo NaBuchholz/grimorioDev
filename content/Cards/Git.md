@@ -10,12 +10,10 @@ tags:
   - Bash
   - Programação/Alura
   - public
-child: Manual de comandos de Git.
 status: Done
 ---
 
-- [[lucca/cards/Manuel de Comandos Git e Terminal]]
-  [[lucca/cards/Git]] é uma ferramenta de versionamento de projetos
+![](https://www.youtube.com/watch?v=Ala6PHlYjmw)
 
 <iframe src="https://training.github.com/downloads/pt_BR/github-git-cheat-sheet" width="100%" height="500px" />
 

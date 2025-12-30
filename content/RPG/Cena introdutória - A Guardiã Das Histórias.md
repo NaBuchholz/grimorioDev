@@ -6,8 +6,6 @@ status: Done
 type: fictionalInformation
 ---
 
-## A Guardiã Das Histórias
-
 A chuva fina cai sobre São Paulo como um véu de memórias, transformando as luzes dos carros em borrões dourados que dançam no asfalto molhado. O céu, uma aquarela em tons de chumbo e âmbar do fim de tarde, emoldura os arranha-céus que se erguem como sentinelas modernas. No coração deste labirinto de concreto e vidro, a Biblioteca Mário de Andrade permanece como um portal para outro tempo.
 
 Sua fachada art déco se destaca entre os edifícios contemporâneos, as linhas geométricas suavizadas pela patina dos anos. Os pilares de mármore travertino, escurecidos pela idade e pela poluição, guardam histórias em cada ranhura. Acima da entrada principal, as palavras "BIBLIOTECA MUNICIPAL" ainda resistem ao tempo, cada letra um testemunho silencioso de décadas de segredos.

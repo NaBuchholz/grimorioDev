@@ -1,11 +1,11 @@
 ---
 aliases:
-type:
+type: fragmentInformation
 tags:
   - public
-status:
+status: Done
 relatedTo:
-  - "[[./characters/Valeria Leloup|Valeria Wolfhart]]"
+  - "[Valeria Wolfhart](<./characters/Valeria Leloup.md>)"
 ---
 
 _Local: Uma cabana isolada nas montanhas, noite fria_
