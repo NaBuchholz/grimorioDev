@@ -26,22 +26,6 @@ Joachim é o caçula da família Wolf. Seu irmão mais velho, Otto (59 anos), mo
 
 Aos 21 anos, Joachim se mudou para São Paulo para trabalhar em um frigorífico. Com o passar dos anos, ele fez amigos na maior cidade do país e acabou se envo## Descrição física para os jogadores
 
-## Histórico (Background)
-
-## Personalidade
-
-## Habilidades E Recursos
-
-## Motivações
-
-## Relações
-
-## Objetivos Atuais
-
-## Citações Mrcantes
-
-## Notas Adicionaislvendo no Transporte Ilegal De Carnes Para a Facção Que Comanda a Capital Do Estado
-
 Aos 25 anos, Joachim se casou com Paola, com quem teve um filho, Matthias (21 anos).
 
 Os negócios ilícitos nos quais Joachim estava envolvido exigiam cada vez mais seu tempo, o que gerou um afastamento da família. Paola e Joachim se separaram em 2003, quando Matthias tinha apenas 6 anos.
