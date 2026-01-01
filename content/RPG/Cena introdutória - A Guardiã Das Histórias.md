@@ -2,6 +2,8 @@
 aliases:
 tags:
   - public
+  - rpg/2032
+  - além-véu
 status: Done
 type: fictionalInformation
 ---

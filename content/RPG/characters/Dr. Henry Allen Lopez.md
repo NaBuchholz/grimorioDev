@@ -177,7 +177,7 @@ A mulher foi tratada de cortes na parte superior do tórax, alegara ter se corta
 
 Um estranho fato chama atenção do médico, a temperatura do sangue era incomum, sua curiosidade falou mais alto, e, mandou parte do sangue para análise afim de identificar possíveis anomalias para a estranha anomalia.
 
-### 06 - Amigo É Para Estas Coisas .
+### 06 - Amigo É Para Estas Coisas
 
 19:30 do 04 abril 2020
 
@@ -203,7 +203,7 @@ Ao que parece, o amigo Marcão, quer fritar tudo que há de eletrônico no apart
 
 Henry protesta, dar uma de migué não é seu forte, mas, favores do Marcão sempre, invariavelmente lhe colocam em enrascadas, mas afinal, amigo é para estas coisas . . .
 
-### 07 - A Ingênua Garota Dos Três Gatos E Seus Muitos Mistérios .
+### 07 - A Ingênua Garota Dos Três Gatos E Seus Muitos Mistérios
 
 19:55 . . .
 
@@ -289,7 +289,7 @@ O SUV Hyundai 4x respondeu rapidamente, começando a ditar ordens sem parar, num
 
 Por fim, Beatriz conseguiu apagar com sucesso o arquivo, e Henry conduziu o carro até a liberdade, não sem antes acertar uma lixeira e amassar um pouco a lataria lateral do carro. Sabia que a jovem estava concentrada de mais para ter percebido, mas um estranho senso de honra o impedia de tomar proveito de sua ignorância ao fato, e avisou-a de seu deslise. Naquele momento, sabia que o pouco que havia ganhado naquela noite havia se exaurido quase totalmente, o martelinho de ouro a domicílio sairia de seu bolso, mas estava feliz por não ter que pagar a provavelmente cara franquia do carrão importado.
 
-### 09 - Estranhos Encontros Num Bistrot Qualquer .
+### 09 - Estranhos Encontros Num Bistrot Qualquer
 
 21:43 04 abril 2020
 
@@ -351,7 +351,7 @@ Após perceber, que ali não seria um bom local para conversar com Beatriz, come
 
   
 
-### 10 - O Corredor Escuro .
+### 10 - O Corredor Escuro
 
 ![3AwJ6pk_kVFMh9qOUMIv523yj6w8K3t1hOTMWxeKsiLixYtgR6skwXdZhECalNBe-VeEp2OvJW15sQrtoNxgJUQa-Q9ch_ZJm3rxWnmOklLaMo953nvzz_BMk__E7ZDCJ5UKUIaY](https://lh5.googleusercontent.com/3AwJ6pk_kVFMh9qOUMIv523yj6w8K3t1hOTMWxeKsiLixYtgR6skwXdZhECalNBe-VeEp2OvJW15sQrtoNxgJUQa-Q9ch_ZJm3rxWnmOklLaMo953nvzz_BMk__E7ZDCJ5UKUIaY)
 

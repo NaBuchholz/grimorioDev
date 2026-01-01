@@ -6,7 +6,7 @@ tags:
   - rpg/2020
   - RPG/Kosmos
 aliases:
-status: Dead
+status: Done
 system:
   - Call of Cthulhu 7th Edition
 relatedTo:
