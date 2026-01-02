@@ -17,7 +17,7 @@ O **Concilio Heptagonal** é um grupo de discussão secreta composta por **quatr
 
 ## **Composição**
 
-O COncilio Heptagonal é formado por:  
+O Concilio Heptagonal é formado por:  
 
 ### **As Quatro Famílias**
 
@@ -33,17 +33,17 @@ O COncilio Heptagonal é formado por:
    - **Habilidade Única:** Conhecimento profundo de magia ancestral e alquimia.    
    - **Lema:** *"A vida flui onde a morte reina."*    
   
-3. **Família Gallifrey's**    
-   - **Origem:** Reino Unido (com ligações ao folclore celta e druídico).    
-   - **Especialidade:** Estudo e contenção de anomalias temporais e paradoxos.    
-   - **Habilidade Única:** Domínio sobre tecnologias arcanas e manipulação do tempo em pequena escala.    
-   - **Lema:** *"O tempo é uma ilusão, mas o perigo é real."*    
+1. ~~**Família Gallifrey's** ->~~   [Família Morozov](Família%20Morozov)
+   - ~~**Origem:** Reino Unido (com ligações ao folclore celta e druídico).~~    
+   - ~~**Especialidade:** Estudo e contenção de anomalias temporais e paradoxos.~~    
+   - ~~**Habilidade Única:** Domínio sobre tecnologias arcanas e manipulação do tempo em pequena escala.~~    
+   - ~~**Lema:** *"O tempo é uma ilusão, mas o perigo é real."*~~    
   
-4. **Família Cagliore**    
-   - **Origem:** Itália  
-   - **Especialidade:** Investigação de artefatos místicos e relíquias perigosas.    
-   - **Habilidade Única:** Habilidade única em decifrar códigos antigos e selar objetos amaldiçoados.    
-   - **Lema:**  
+1. ~~**Família Cagliore**~~    
+   - ~~**Origem:** Itália~~  
+   - ~~**Especialidade:** Investigação de artefatos místicos e relíquias perigosas.~~    
+   - ~~**Habilidade Única:** Habilidade única em decifrar códigos antigos e selar objetos amaldiçoados.~~    
+   - ~~**Lema:**~~  
   
 
 ### **As Três Organizações**

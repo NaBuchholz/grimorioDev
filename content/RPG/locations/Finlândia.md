@@ -4,7 +4,7 @@ type: Location
 tags:
   - rpg/2032
   - public
-status: Doing
+status: Done
 ---
 
 ## GUIA DE CONTEXTUALIZAÇÃO (2032)
