@@ -8,12 +8,14 @@ condition:
 magic: None
 age: 42
 organization: SA
-last_location: "[[../locations/São Paulo]]"
+last_location: "[São Paulo](<../locations/São Paulo.md>)"
 status: Done
 profission: Médico Pediatra
 ---
 
-![[../../Attachments/rpg-images/CatarinaAragaoPetra.jpg|300]]
+![300](<../../Attachments/rpg-images/CatarinaAragaoPetra.jpg>)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/20N0GCYiLhhwUWUnzw2rBg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Discurso Fúnebre Hector
 

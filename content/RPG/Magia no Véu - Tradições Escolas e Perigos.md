@@ -424,11 +424,3 @@ O dourado representa o auge do poder mágico e a transmutação da consciência 
 ---
 
 A magia no cenário do Além-Véu é tão diversa quanto perigosa, refletindo as filosofias e objetivos das organizações e famílias que a praticam. Desde o sangue até os rituais de contenção , cada tradição oferece uma janela única para o cosmos sombrio do Mythos - e um caminho distinto para a possível perdição de seus praticantes.
-
-#### **CASO #38 - Paciente L.M., 19 anos**
-
-_Hospitalizado: 11/2025 - Status: Recuperado Totalmente_
-
-"Eu estava afundando em um mar escuro, com vozes chamando de baixo. Não conseguia nadar de volta. Foi quando ele apareceu, caminhando sobre a água como se fosse chão sólido. Não falou nada, apenas estendeu a mão. Quando a segurei, ele me mostrou como encontrar o caminho de volta — disse para me concentrar em algo do mundo real que eu amava verdadeiramente. E funcionou. Antes de eu acordar, ele sorriu e disse: 'Algumas águas não são para nadar, apenas para observar à distância.' Ainda sinto que ele está me observando quando durmo, mas não de um modo assustador... mais como um guardião."
-
-**NOTA CLÍNICA:** Caso notável de remissão completa de sintomas pós-exposição ao Sonhar. Paciente retomou ciclo normal de sono em apenas 14 dias. EEGs subsequentes mostram padrões de ondas cerebrais excepcionalmente estáveis durante fase REM.
