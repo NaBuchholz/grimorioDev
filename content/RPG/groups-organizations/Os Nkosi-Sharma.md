@@ -9,7 +9,7 @@ tags:
   - rpg/2032
   - rpg/concilioheptagonal
   - public
-status: Doing
+status: Done
 ---
 
 ## **Guardiões Do Equilíbrio**

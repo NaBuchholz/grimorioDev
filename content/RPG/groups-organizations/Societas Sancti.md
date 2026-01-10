@@ -5,7 +5,7 @@ type: fictionalInformation
 tags:
   - rpg/dming
   - public
-status: Doing
+status: Done
 system: "[[../../Cards/Call of Cthulhu 7ed]]"
 ---
 
