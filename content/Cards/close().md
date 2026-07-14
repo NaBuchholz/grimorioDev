@@ -8,7 +8,7 @@ tags:
 aliases:
 status: Done
 relatedTo:
-  - "[[../MOCs/Get Next Line]]"
+  - "[[../03-Projects/Get Next Line]]"
   - "[[./read()]]"
   - "[[./open()]]"
 ---

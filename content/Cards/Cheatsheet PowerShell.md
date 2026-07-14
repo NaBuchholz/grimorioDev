@@ -1,9 +1,9 @@
 ---
-type:
+type: guide
 tags:
   - Study
   - public
-aliases: 
+aliases:
 status: Draft
 relatedTo: []
 ---

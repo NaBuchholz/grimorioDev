@@ -1,5 +1,5 @@
 ---
-type:
+type: study
 tags:
   - Study
   - Programação/DevOps

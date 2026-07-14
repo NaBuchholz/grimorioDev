@@ -18,9 +18,7 @@ A hemomancia baseia-se na crença de que o sangue é a essência vital que conec
 **Princípios Fundamentais:**
 
 - **O Sangue como Energia:** O sangue é visto como uma fonte de poder bruto, capaz de alimentar feitiços e criar conexões com planos superiores.
-	
 - **Rituais Sanguíneos:** A hemomancia exige precisão ritualística, sendo praticada em momentos específicos (como quartas-feiras) para maximizar sua eficácia.
-	
 - **Comunicação Dimensional:** O sangue dos Morozov atua como uma ponte entre o mundo físico e entidades extradimensionais.
 	
 
@@ -29,13 +27,9 @@ A hemomancia baseia-se na crença de que o sangue é a essência vital que conec
 A hemomancia foi desenvolvida pela família Morozov ao longo de gerações. Cada membro contribuiu com descobertas únicas que expandiram os limites desta magia:
 
 1. **Petru Morozov (1835-1902):** Criador da tintura argêntea, que transformou o sangue da família em um condutor mágico.
-	
 2. **Ekaterina Morozov (1860-1923):** Desenvolveu o Ritual da Comunhão Sanguínea, permitindo a telepatia temporária entre participantes.
-	
 3. **Viktor Morozov (1885-1937):** Descobriu os Cálculos Hemáticos, um sistema matemático para prever eventos futuros usando padrões no fluxo sanguíneo.
-	
 4. **Anastasia Morozov (1910-1978):** Criou a Arte da Hemoplastia, moldando o sangue em ferramentas divinatórias.
-	
 5. **Mikhail Morozov (1940-2005):** Inventor do Espelho Hemático, usado para visões claras e perigosas.
 	
 
@@ -44,11 +38,8 @@ A hemomancia foi desenvolvida pela família Morozov ao longo de gerações. Cada
 A prática da hemomancia envolve uma combinação de rituais precisos e técnicas avançadas:
 
 - **Extração Rituística:** O sangue é coletado em horários específicos para maximizar seu potencial mágico.
-	
 - **Hemoplastia:** Manipulação física do sangue para criar símbolos ou ferramentas temporárias.
-	
 - **Transfusão Visionária:** Compartilhamento de visões através de transfusões controladas entre membros da família.
-	
 - **Divinação Sanguínea:** Uso do sangue derramado sobre superfícies prateadas para interpretar padrões e prever eventos.
 	
 
@@ -57,9 +48,7 @@ A prática da hemomancia envolve uma combinação de rituais precisos e técnica
 A hemomancia é uma arte perigosa, tanto para o praticante quanto para aqueles ao seu redor:
 
 1. **Exaustão Física:** O uso excessivo pode levar à anemia severa ou morte.
-	
 2. **Riscos Dimensionais:** A comunicação com entidades extradimensionais pode atrair seres hostis.
-	
 3. **Corrupção Espiritual:** O uso prolongado pode corroer a sanidade do praticante.
 	
 

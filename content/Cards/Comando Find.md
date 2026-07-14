@@ -1,9 +1,7 @@
 ---
 aliases:
-status:
+status: Doing
 type: Card
-title: Comando Find
-description: Doing
 tags:
   - linux
   - public

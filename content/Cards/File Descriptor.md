@@ -9,7 +9,7 @@ aliases:
   - fd
 status: Done
 relatedTo:
-  - "[[../MOCs/Get Next Line]]"
+  - "[[../03-Projects/Get Next Line]]"
 ---
 
 ## Resume
@@ -27,7 +27,7 @@ relatedTo:
 >[!tip] Int fd 
 >File descriptors are small integers, typically ranging from 0 to 255.
 
-![como o so lida com um file descriptor](<../Attachments/como o so lida com um file descriptor.jpg>)
+![como o so lida com um file descriptor](<../_attachments/File Descriptor/20260208_20260208_como-o-so-lida-com-um-file-descriptor.jpg>)
 
 > [^3]Além dos arquivos em si, o FD também considera informações sobre diretórios, partições, caracteres, muitas vezes chamados de “arquivos especiais”, canais específicos e nomeados, dispositivos de bloco e soquetes de domínio.
 

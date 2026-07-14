@@ -15,6 +15,6 @@ Camada de Sessão - 5 é a camada responsável pela abertura e fechamento da com
 
 Cuida do mecanismo conhecido como "_name-to-station address translation_" (NAT), ou seja, a tradução de endereços para o nome de uma estação de rede específica.
 
-![camada de sessão](<../Attachments/Pasted image 20241121131404.png>)
+![camada de sessão](<../_attachments/Camada de Sessão - 5/20260208_20260208_Pasted-image-20241121131404.png>)
 
 ## References and Footnotes

@@ -162,29 +162,23 @@ O _Manual de DevOps_ (em inglês, **The DevOps Handbook**) foi escrito por um gr
 1. **Gene Kim**
 	
 	- Pesquisador e autor influente no mundo DevOps.
-		
 	- Também escreveu _The Phoenix Project_ e _The Unicorn Project_.
-		
 	- Um dos principais defensores da cultura DevOps.
 		
 2. **Jez Humble**
 	
 	- Coautor de _Continuous Delivery_ (referência absoluta na área).
-		
 	- Trabalhou na ThoughtWorks e no Google.
-		
 	- Especialista em CI/CD e entrega de software confiável.
 		
 3. **Patrick Debois**
 	
 	- Criador do termo "DevOps" (sim, literalmente).
-		
 	- Trabalhou para governos, empresas e comunidades, promovendo integração entre devs e ops.
 		
 4. **John Willis**
 	
 	- Trabalhou na Chef e na Docker.
-		
 	- Especialista em automação de infraestrutura e cultura organizacional.
 
 ### Metodo PBC

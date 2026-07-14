@@ -1,9 +1,9 @@
 ---
 aliases:
-type:
+type: book
 tags:
   - public
-status:
+status: Doing
 kindle-sync:
   bookId: "15199"
   title: "Bruxa interior: Resgate seu poder ancestral (Portuguese Edition)"

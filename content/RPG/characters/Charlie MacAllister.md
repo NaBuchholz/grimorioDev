@@ -76,6 +76,7 @@ As **"Gêmeas do Sol e da Lua"** — como Charlie carinhosamente chama suas filh
 Luna tem tranças castanhas , trançados com linhas de lã coloridas. Seus olhos âmbar puxados da mãe brilham quando ela inventa histórias — o que acontece o tempo todo. Adora transformar tudo em narrativa, desde o caminho da escola até o formato das nuvens.  
 
 **Características Marcantes:**  
+
 1. **Faz música com qualquer coisa** — bate ritmo em mesas, canta sob o chuveiro e já encheu a casa de "instrumentos" feitos de sucata.  
 2. **Tem um diário cheio de "mapas de mundos imaginários"**, alguns assustadoramente parecidos com lugares do Além-Véu (sem que ela saiba).  
 
@@ -89,5 +90,6 @@ Luna tem tranças castanhas , trançados com linhas de lã coloridas. Seus olhos
 Sunny tem tranças loiras com fios de laranja e rosa, sempre presas com enfeites de borboletas. Enquanto a irmã cria mundos, ela os desmonta para entender — coleciona pedras, mistura tintas e já tentou "criar um novo sabor de sorvete" (resultado: gelo de beterraba com pimenta).  
 
 **Características Marcantes:**  
+
 1. **Fala com plantas e insetos** como se fossem amigos — e às vezes eles respondem (coincidência?...).  
 2. **Tem um medo irracional de espelhos**, mas nunca explica por quê.  

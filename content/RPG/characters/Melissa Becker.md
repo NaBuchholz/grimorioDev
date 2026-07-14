@@ -13,7 +13,7 @@ profission: Policial
 status: Done
 ---
 
-![300](<../../Attachments/rpg-images/MelissaBecker.jpg>)
+![300](<../../_attachments/Melissa Becker/20260208_20260208_MelissaBecker.jpg>)
 
 **Cargo:** Tenente-Coronel da Polícia Militar do Estado de São Paulo (PMESP)  
 **Especialização:** Operações Especiais e Inteligência Estratégica  

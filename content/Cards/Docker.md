@@ -23,7 +23,7 @@ lenguage: pt-Br
 	 
  - Por que não uma VM?
 	 O docker usa a camada de aplicação do S.O e o [[Kernel]] do Host, diferente de uma VM que tem seu próprio. Fazendo com que o tamanho das imagens de Docker sejam muito menores. Mas a compatibilidade é limitada , já que o docker precisa do [[Kernel]] do Host.
-	 ![diferenças docker e vms](<../Attachments/Pasted image 20250215102951.png>)
+	 ![diferenças docker e vms](<../_attachments/Docker/20260208_20260208_Pasted-image-20250215102951.png>)
 
 ### Imagens Vs Containers?
 

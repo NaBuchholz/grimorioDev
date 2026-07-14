@@ -1,7 +1,7 @@
 ---
-aliases: 
+aliases:
 type: note
-status: started
+status: Doing
 platform: Kult
 chapter: 4
 forWho: Mestra
@@ -33,7 +33,7 @@ Exemplos de Ferimentos Críticos: pulmão perfurado, aorta rompida, evisceraçã
 
 ### Penalidades Por Ferimentos
 
-![](<../Attachments/Pasted image 20230607142945.png>)
+![](<../_attachments/Ferimentos/20260208_20260208_Pasted-image-20230607142945.png>)
 
 - Ativação: “Ao sofrer um ferimento” significa ativar Suportar Ferimento em todas as situações nas quais o PJ é exposto a algo capaz de causar lesões física.
 - Em um fracasso (-9), o PJ sofre uma lesão esmagadora e perigosa. O jogador escolhe se seu personagem é nocauteado (sob o risco de apresentar um Ferimento Grave), se sofre um Ferimento Crítico ou se morre. Ele só pode sofrer um Ferimento Crítico. Se já possuir um, ele deverá então escolher entre ser nocauteado ou morrer.

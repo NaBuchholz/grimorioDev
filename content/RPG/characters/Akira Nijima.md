@@ -14,7 +14,7 @@ status: Done
 profission: Médico Legista
 ---
 
-![[../../Attachments/rpg-images/Akira Nijima.png|300]]
+![[../../_attachments/Akira Nijima/20260208_20260208_Akira-Nijima.png|300]]
 
 Descendente dos imigrantes de outrora, Akira cresceu numa família tão tradicional quanto ela conseguiria ser aqui no Brasil, seus pais ocasionalmente fazia viagens para o Japão mas ele nunca os acompanhou nessas viagens. Esse era, inclusive, um dos desejos-mor de seu pai, que sonhava com o filho ficando adulto e os levando a todos para morarem lá, vivenciando os costumes de que tanto derivavam aqueles que eles experenciavam agora.
 
@@ -30,4 +30,4 @@ Seu pai ficou extremamente satisfeito com isso, e na formatura do filho, deu-lhe
 
 Posteriormente, o agora médico desenvolveu-se ainda mais na medicina mas escolheu o caminho de um cirurgião legista, dada as circunstancias desconhecidas da morte da sua mãe, Akira mais uma vez acreditou que assim conseguiria fazer a diferença, sendo tão bom em sua área que não haveriam mortes que ele não saberia determinar. Nesse ponto, Akira se mudou para o bairro de Perdizes, próximo a Barra Funda, e reside lá em uma apartamento desde então. Reservado e solitário, Akira costuma receber com frequência a visita da irmã que, por medo da saúde do pai se debilitar, decidiu continuar morando com ele para ampara-lo.
 
-Por fim, Akira ajuda sua família, tenta se aproximar do turrão do seu pai e, secretamente, continua desejando compreender o que aconteceu com sua mãe.
+Por fim, [Akira Nijima](Akira%20Nijima.md) ajuda sua família, tenta se aproximar do turrão do seu pai e, secretamente, continua desejando compreender o que aconteceu com sua mãe.

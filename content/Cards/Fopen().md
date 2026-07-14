@@ -9,7 +9,7 @@ aliases:
 status: Done
 relatedTo:
   - "[[./open()]]"
-  - "[[../MOCs/Get Next Line]]"
+  - "[[../03-Projects/Get Next Line]]"
 ---
 
 ## O Que É Fopen ?

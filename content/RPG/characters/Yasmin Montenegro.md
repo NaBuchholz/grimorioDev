@@ -26,7 +26,7 @@ isPlayer:
 
 ## **Descrição Física De Yasmin "Yas Dourado" Montenegro**
 
-![yas | 300](<../../Attachments/yas montenegro.jpg>)
+![yas | 300](<../../_attachments/Yasmin Montenegro/20260208_20260208_yas-montenegro.jpg>)
 
 Yasmin é **uma presença impossível de ignorar**. Sua pele negra brilha sob as luzes dos holofotes, ressaltando a elegância e a intensidade do seu olhar. Seus **olhos verdes vibrantes**, quase hipnóticos, transmitem tanto mistério quanto confiança—um convite e um desafio ao mesmo tempo.
 

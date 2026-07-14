@@ -13,7 +13,7 @@ status: Done
 profission: Médico Pediatra
 ---
 
-![300](<../../Attachments/rpg-images/CatarinaAragaoPetra.jpg>)
+![300](<../../_attachments/Dra. Catarina Aragão Petra Vasconcelos/20260208_20260208_CatarinaAragaoPetra.jpg>)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/20N0GCYiLhhwUWUnzw2rBg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

@@ -1,9 +1,9 @@
 ---
-type:
+type: hub
 tags:
   - Study
   - public
-aliases: 
+aliases:
 status: Draft
 relatedTo: []
 ---

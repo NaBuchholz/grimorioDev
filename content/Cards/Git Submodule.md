@@ -155,11 +155,8 @@ git submodule status
 ## Boas Práticas
 
 1. **Especifique versões estáveis**: Vincule submódulos a commits específicos ou tags para evitar problemas com atualizações não testadas.
-	
 2. **Documente dependências**: Mantenha uma lista clara de submódulos e suas funções no projeto.
-	
 3. **Use submódulos com moderação**: Submódulos adicionam complexidade - use apenas quando necessário.
-	
 4. **Considere alternativas**: Para projetos mais simples, dependências de pacotes (npm, pip, etc.) podem ser mais adequadas que submódulos.
 	
 

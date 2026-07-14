@@ -9,7 +9,7 @@ tags:
 aliases:
 status: Doing
 relatedTo:
-  - "[[../MOCs/Born 2 Be Root]]"
+  - "[[../03-Projects/Born 2 Be Root]]"
 ---
 
 ## Resume

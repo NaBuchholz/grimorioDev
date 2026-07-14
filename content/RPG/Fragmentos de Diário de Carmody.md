@@ -78,7 +78,7 @@ Talvez a diferença entre um aliado e um inimigo seja apenas _quanto tempo resta
 
 ---
 
-**[Entrada 47] - O Fim Inevável**
+**[Entrada 47] - O Fim Inefável**
 
 Elias um dia me perguntou se ele poderia voltar a ser normal, um raro vislumbre do homem frágil que ele foi um dia. Eu menti. Disse que talvez, que ainda podíamos tentar, que poderíamos encontrar um jeito. Ele sabia que eu estava mentindo e eu sabia que ele sabia, mas apenas continuamos a fumar nossos charutos.
 

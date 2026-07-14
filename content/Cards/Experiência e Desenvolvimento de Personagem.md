@@ -27,7 +27,7 @@ No sexto avanço, o jogador desbloqueia um novo conjunto de avanços, o que pode
 
 ### Avanço Da Consciência
 
-![500](<../Attachments/Pasted image 20230607182932.png>)
+![500](<../_attachments/Experiência e Desenvolvimento de Personagem/20260208_20260208_Pasted-image-20230607182932.png>)
 
 Substituir seu Arquétipo atual por outro Arquétipo Consciente e apagar uma de suas três Vantagens iniciais:
 

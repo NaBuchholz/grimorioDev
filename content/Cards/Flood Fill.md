@@ -7,9 +7,10 @@ tags:
   - ecole42/commoncore/milestone2
   - public
 aliases:
-status: Draft
+status: Done
 relatedTo:
-  - "[[../MOCs/Ft_SoLong]]"
+  - "[[../03-Projects/Ft_SoLong]]"
+publish: true
 ---
 
 ## Resume
@@ -28,11 +29,11 @@ O flood fill é usado em: 
 
 ## Para Que Serve?
 
-Essa técnica é muito usada para fazer validações em matrizes, uma vez que a partir de um ponto inicial (no casso do [So Long](<../MOCs/Ft_SoLong.md>) o P) o algoritmo vai de casa cardinal em casa cardinal verificando as regras de negócio.
+Essa técnica é muito usada para fazer validações em matrizes, uma vez que a partir de um ponto inicial (no casso do [So Long](<../03-Projects/Ft_SoLong.md>) o P) o algoritmo vai de casa cardinal em casa cardinal verificando as regras de negócio.
 
-![Pasted image 20250120135049](<../Attachments/Pasted image 20250120135049.png>)
+![Pasted image 20250120135049](<../_attachments/Flood Fill/20260208_20260208_Pasted-image-20250120135049.png>)
 
-![flood](<../Attachments/Pasted image 20250123115119.png>)
+![flood](<../_attachments/Flood Fill/20260208_20260208_Pasted-image-20250123115119.png>)
 
 - [DFS](https://www.youtube.com/watch?v=gohEAP1Jmcg)
 - [BFS](https://www.youtube.com/watch?v=JWP9EI88Yoo)

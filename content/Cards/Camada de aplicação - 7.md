@@ -10,14 +10,14 @@ aliases:
 status: Done
 relatedTo:
   - "[[./O que é o Modelo OSI]]"
-  - "[[../MOCs/Born 2 Be Root]]"
+  - "[[../03-Projects/Born 2 Be Root]]"
 ---
 
 ## O Que É Camada De Aplicação - 7 ?
 
 Camada de aplicação - 7 é a única camada que interage diretamente com os dados do usuário no [modelo OSI](<./O que é o Modelo OSI.md>). Sua função é definir a semântica da informação a transmitir/receber.
 
-![camada sete](<../Attachments/Pasted image 20241121103326.png>)
+![camada sete](<../_attachments/Camada de aplicação - 7/20260208_20260208_Pasted-image-20241121103326.png>)
 
 Os protocolos da camada de aplicação incluem o [HTTP](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/) e o [SMTP](https://www.cloudflare.com/learning/email-security/what-is-smtp/) (Protocolo de Transferência de Correio Simples, um dos protocolos que permite a comunicação por [e-mail](https://www.cloudflare.com/learning/email-security/what-is-email/)). [^1]Além de serviços como o DNS.
 

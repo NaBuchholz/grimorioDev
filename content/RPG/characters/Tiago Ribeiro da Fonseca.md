@@ -40,11 +40,8 @@ Tiago é um defensor ferrenho da diversidade e inclusão dentro da FBC. Ele acre
 ### Personalidade E Características
 
 - **Curioso e inovador**, Tiago está sempre em busca de novas descobertas e não tem medo de desafiar os limites da ciência convencional.
-	
 - **Carismático e inclusivo**, ele cria um ambiente de trabalho onde todos se sentem valorizados e ouvidos.
-	
 - **Persistente e resiliente**, Tiago não desiste diante dos desafios, mesmo quando os resultados não são imediatos.
-	
 - **Empático e humano**, ele se preocupa profundamente com o bem-estar de seus colegas e pacientes, muitas vezes indo além de suas responsabilidades para ajudar.
 
 ---
@@ -52,19 +49,14 @@ Tiago é um defensor ferrenho da diversidade e inclusão dentro da FBC. Ele acre
 ### **O Poder Da Inovação**
 
 - **Conhecimento científico avançado:** Tiago é especializado em bioquímica e neurociência, com um foco particular nos efeitos do Além-Véu no cérebro humano.
-	
 - **Habilidade de liderança:** Ele é capaz de unir equipes multidisciplinares e motivá-las a alcançar resultados extraordinários.
-	
 - **Pensamento criativo:** Tiago está sempre buscando novas abordagens e soluções, muitas vezes pensando "fora da caixa".
-	
 - **Comunicação eficaz:** Ele sabe como explicar conceitos complexos de forma clara e acessível, seja para colegas ou para pacientes.
 
 ### Rumores
 
 - **Ele já testou tratamentos experimentais em si mesmo.** Alguns dizem que Tiago não tem medo de ser o primeiro a testar novas terapias, mesmo que isso signifique correr riscos.
-	
 - **Ele tem conexões com universidades internacionais.** Tiago é conhecido por colaborar com pesquisadores de todo o mundo, trazendo conhecimento global para a FBC.
-	
 - **Ele esconde um segredo pessoal.** Há rumores de que Tiago teve uma experiência traumática com o Além-Véu no passado, envolvendo seu filho desaparecido, [Edgard Theodoro da Fonseca](<./Edgard Theodoro da Fonseca.md>), mas ele nunca fala sobre isso.
 
 ---

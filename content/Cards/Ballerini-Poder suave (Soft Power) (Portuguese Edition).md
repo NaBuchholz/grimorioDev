@@ -1,9 +1,9 @@
 ---
 aliases:
-type:
+type: book
 tags:
   - public
-status:
+status: Done
 kindle-sync:
   bookId: "26296"
   title: Poder suave (Soft Power) (Portuguese Edition)

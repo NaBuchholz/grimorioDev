@@ -17,7 +17,7 @@ O _modelo de responsabilidade compartilhada_ identifica quais tarefas de segur
 -   **PaaS (Plataforma como Serviço)**. O PaaS fornece um ambiente para criação, teste e implantação de aplicativos de software. A meta da PaaS é ajudar você a criar um aplicativo rapidamente sem a necessidade de gerenciar a infraestrutura subjacente. Com o PaaS, o provedor de nuvem gerencia o hardware e os sistemas operacionais, e o cliente é responsável por aplicativos e dados.
 -   **SaaS (Software como Serviço)**. O SaaS é hospedado e gerenciado pelo provedor de nuvem para o cliente. Normalmente, ele é licenciado por meio de uma assinatura mensal ou anual. O** Microsoft 365**, o Skype e o Dynamics CRM Online são todos exemplos de softwares SaaS. O SaaS requer a menor quantidade de gerenciamento pelo cliente de nuvem. O provedor de nuvem é responsável por gerenciar tudo, exceto dados, dispositivos, contas e identidades.
 
-![500](<../Attachments/Pasted image 20230319094353.png>)
+![500](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319094353.png>)
 
 - Torna as responsabilidades claras e objetivas
 
@@ -32,12 +32,12 @@ O _modelo de responsabilidade compartilhada_ identifica quais tarefas de segur
 	-   A segurança da camada **Aplicativo** garante que os aplicativos estejam seguros e livres de vulnerabilidades de segurança.
 	-   A segurança da camada **Dados**, incluindo controles para gerenciar o acesso aos dados de negócios e clientes e à criptografia para proteger os dados.
 
-	>![500](<../Attachments/Pasted image 20230319095909.png>)
+	>![500](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319095909.png>)
 
 #### Confidencialidade, Integridade, Disponibilidade (CIA )
 
 -  CIA (confidentiality, integrity e availability)
-	![300](<../Attachments/Pasted image 20230319100114.png>)
+	![300](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319100114.png>)
 
 -   A **Confidencialidade** se refere à necessidade de manter os dados confidenciais, como informações do cliente, senhas ou dados financeiros. Você pode criptografar os dados para mantê-los confidenciais, mas também precisa manter as chaves de criptografia confidenciais. Confidencialidade é a parte mais visível da segurança. Podemos ver claramente a necessidade de dados confidenciais, chaves, senhas e outros segredos que devem ser mantidos confidenciais.
 -   A **Integridade** se refere à manutenção de dados ou mensagens corretas. Ao enviar uma mensagem de email, você deve ter certeza de que a mensagem recebida é igual à mensagem enviada. Ao armazenar dados em um banco de dados, você deve ter certeza de que os dados recuperados são os mesmos que os dados armazenados. A criptografia de dados mantém a confidencialidade, mas você deve ser capaz de descriptografar os dados de forma que eles se mantenham tal como eram antes de serem criptografados.** Integridade trata-se da confiança de que os dados não foram adulterados ou alterados.**
@@ -65,7 +65,7 @@ No modelo de confiança zero, todos os elementos funcionam em conjunto para forn
 -   Os **dados** devem ser classificados, rotulados e criptografados com base em seus atributos. Os esforços de segurança são basicamente sobre a proteção de dados, garantindo que eles permaneçam seguros quando saem de dispositivos, aplicativos, infraestrutura e redes que a organização controla.
 -   A **infraestrutura**, seja local ou baseada na nuvem, representa um vetor de ameaça. Para melhorar a segurança, você avalia a versão, a configuração e o acesso JIT e usa a telemetria para detectar ataques e anomalias. Isso permite que você bloqueie ou sinalize automaticamente comportamentos arriscados e tome ações de proteção.
 -   As **redes** devem ser segmentadas, incluindo a micro segmentação na rede mais profunda. Além disso, a proteção contra ameaças em tempo real, criptografia de ponta a ponta, monitoramento e análise devem ser empregadas.
-![400](<../Attachments/Pasted image 20230319101418.png>)
+![400](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319101418.png>)
 
 ### Descrever Criptografia E Hash
 
@@ -73,7 +73,7 @@ Uma maneira de mitigar ameaças comuns de segurança cibernética é criptografa
 
 Há dois tipos de criptografia de nível superior: simétrica e assimétrica. A criptografia simétrica usa a mesma chave para criptografar e descriptografar os dados. A criptografia assimétrica usa um par de chaves públicas e de chaves privadas. Qualquer chave pode criptografar dados, mas uma única chave não pode ser usada para descriptografar dados criptografados.
 
-![250](<../Attachments/Pasted image 20230319102621.png>)
+![250](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319102621.png>)
 
 #### Criptografia Para Dados Em Repouso
 
@@ -95,7 +95,7 @@ O hash é diferente da criptografia, pois não usa chaves, e o valor de hash nã
 
 Como as funções de hash são determinísticas (a mesma entrada produz a mesma saída), os hackers podem usar ataques de dicionário de força bruta por meio do hash de senhas. Para cada hash correspondente, eles sabem a senha real. Para atenuar esse risco, as senhas geralmente têm “sal”. Isso se refere à adição de um valor aleatório de comprimento fixo à entrada de funções de hash para criar hashes exclusivos para a mesma entrada.
 
-![200](<../Attachments/Pasted image 20230319103131.png>)
+![200](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319103131.png>)
 
 ### Descrever Conceitos De Conformidade
 
@@ -142,7 +142,7 @@ Uma identidade é o conjunto de coisas que definem ou caracterizam alguém ou al
 
 Uma identidade pode ser associada a um usuário, um aplicativo, um dispositivo ou outra coisa.
 
-![350](<../Attachments/Pasted image 20230319105201.png>)
+![350](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319105201.png>)
 
 #### Quatro Pilares De Uma Infraestrutura De Identidade
 
@@ -187,7 +187,7 @@ Descrever o conceito de federação
 
 A federação permite o acesso de serviços através dos limites da organização ou do domínio, estabelecendo relações de confiança com o provedor de identidade do respectivo domínio. Com a federação, não é necessário que um usuário mantenha nome de usuário e senha diferentes ao acessar recursos em outros domínios.
 
-![](<../Attachments/Pasted image 20230319114319.png>)
+![](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319114319.png>)
 
 Com a federação, a confiança nem sempre é bidirecional. Embora o IdP-A possa confiar no IdP-B e permitir que o usuário no domínio B acesse o site no domínio A, o oposto não é verdadeiro, a menos que a relação de confiança esteja configurada.
 
@@ -199,7 +199,7 @@ O Azure AD (Microsoft Azure Active Directory), parte do Microsoft Entra, é o se
 
 O Azure AD simplifica a maneira como as organizações gerenciam a autorização e o acesso, fornecendo um único sistema de identidade para os aplicativos no local e na nuvem. O Azure AD pode ser sincronizado com o Active Directory local existente, sincronizado com outros serviços de diretório ou usado como serviço autônomo.
 
-![](<../Attachments/Pasted image 20230319155401.png>)
+![](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319155401.png>)
 
 O Azure AD é usado por administradores de TI para controlar o acesso a aplicativos e recursos corporativos, com base nos requisitos de negócios. Também pode ser configurado para exigir a autenticação multifator ao acessar recursos organizacionais importantes. O Azure AD pode ser usado para automatizar o provisionamento de usuários entre o Windows Server AD existente e os aplicativos na nuvem, incluindo o Microsoft 365.
 
@@ -235,7 +235,7 @@ Uma entidade de serviço é, essencialmente, uma identidade para um aplicativo. 
 
 As identidades gerenciadas são um tipo de entidade de serviço gerenciada automaticamente no Azure AD que eliminam a necessidade de os desenvolvedores gerenciarem credenciais.
 
-![600](<../Attachments/Pasted image 20230319160954.png>)
+![600](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319160954.png>)
 
 Há dois tipos de identidades gerenciadas: atribuída pelo sistema e atribuída pelo usuário.
 
@@ -280,7 +280,7 @@ O Azure AD B2C é uma solução de CIAM (gerenciamento de acesso de identidade d
 
 Com o Azure AD B2C, os usuários externos são gerenciados no diretório Azure AD B2C, separadamente do diretório de funcionários e parceiros da organização. Também há suporte para SSO para os aplicativos de clientes nos locatário do Azure AD B2C.
 
-![400](<../Attachments/Pasted image 20230319162632.png>)
+![400](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319162632.png>)
 
 As Identidades Externas do Azure AD são um recurso das edições Premium P1 e P2 do Azure AD e os preços se baseiam em usuários ativos mensais.
 
@@ -294,19 +294,19 @@ Uma consideração importante para as organizações que operam em um ambiente d
 -   Autenticação de passagem do Azure AD
 -   Autenticação federada
 
-![600](<../Attachments/Pasted image 20230319162938.png>)
+![600](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319162938.png>)
 
 **Sincronização de hash de senha do Azure AD**. A sincronização de hash de senha do Azure AD é a maneira mais simples de habilitar a autenticação para objetos do directory locais no Azure AD. Os usuários podem entrar nos serviços do Azure AD usando o mesmo nome de usuário e senha usados para entrar na instância do Active Directory local. O Azure AD lida com o processo de conexão dos usuários.
 
 Com a sincronização de hash de senha, o Azure AD Connect garante que o hash de senha seja sincronizado entre o Active Directory local e o Azure AD. Isso permite que a autenticação do usuário ocorra no Azure AD e não na própria instância do Active Directory da organização. Um benefício dessa abordagem é que a sincronização de hash de senha fornece autenticação de nuvem altamente disponível. Os usuários locais podem se autenticar com o Azure AD para acessar aplicativos baseados em nuvem, mesmo que o Active Directory local fique inativo.
 
-![600](<../Attachments/Pasted image 20230319164515.png>)
+![600](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319164515.png>)
 
 **Autenticação de passagem do Azure AD**. A autenticação de passagem do Azure AD permite que os usuários entrem em aplicativos locais e baseados em nuvem usando as mesmas senhas, como sincronização de hash de senha. Uma diferença importante, no entanto, é que, quando os usuários entram usando o Azure AD, a autenticação de passagem valida as senhas dos usuários diretamente em relação ao Active Directory local. A validação de senha não ocorre na nuvem. Isso pode ser um fator importante para as organizações que desejam impor suas políticas de segurança e senha do Active Directory local.
 
 O uso de agentes de autenticação em execução em um servidor significa que é necessário um maior volume de infraestrutura em comparação à sincronização de hash de senha. Além disso, como a autenticação de passagem é validada no Active Directory local com dependência de agentes de autenticação em execução em servidores, é preciso considerar software e hardware distribuídos e redundantes para fornecer alta disponibilidade de solicitações de conexão. Caso contrário, se o datacenter sofrer interrupção, a autenticação para serviços do Microsoft 365 não será mais possível.
 
-![600](<../Attachments/Pasted image 20230319164837.png>)
+![600](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319164837.png>)
 
 **Autenticação federada**. A federação é recomendada como uma autenticação para organizações que têm recursos avançados atualmente incompatíveis com o Azure AD, incluindo logon usando cartões inteligentes ou certificados, logon usando o servidor de MFA (autenticação multifator) local e logon usando uma solução de autenticação de terceiros.
 
@@ -314,7 +314,7 @@ A autenticação federada usa o Azure AD Connect, mas também requer servidores 
 
 Organizações que optam por usar a Federação com o Serviços de Federação do Active Directory (AD FS) podem configurar a sincronização de hash de senha como um backup em caso de falha na infraestrutura do AD FS.
 
-![600](<../Attachments/Pasted image 20230319165016.png>)
+![600](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230319165016.png>)
 
 ## Descrever Os Recursos De Autenticação Do Azure AD
 
@@ -324,7 +324,7 @@ Organizações que optam por usar a Federação com o Serviços de Federação d
 
 As senhas são a forma mais comum de autenticação, mas elas têm muitos problemas, especialmente se usadas na autenticação de fator único, em que apenas uma forma de autenticação é usada.
 
-![](<../Attachments/Pasted image 20230320123120.png>)
+![](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230320123120.png>)
 
 #### Telefone
 
@@ -363,7 +363,7 @@ A autenticação multifator do Azure Active Directory funciona exigindo:
 -   **Algo que você tem** – como um dispositivo confiável que não é facilmente duplicado, como um telefone ou uma chave de hardware **ou**
 -   **Algo que você é** – uma biometria, como uma impressão digital ou uma verificação facial.
 
-![](<../Attachments/Pasted image 20230320124351.png>)
+![](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230320124351.png>)
 
 #### Padrões De Segurança E Autenticação Multifator
 
@@ -401,7 +401,7 @@ Para a segurança híbrida, os administradores podem integrar a proteção de se
 
 O acesso condicional é um recurso do Azure AD que fornece uma camada extra de segurança antes de permitir que usuários autenticados acessem dados ou outros ativos.
 
-![](<../Attachments/Pasted image 20230320210448.png>)
+![](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230320210448.png>)
 
 Uma política de acesso condicional pode declarar que, _se_ um usuário pertencer a determinado grupo, será necessário fornecer autenticação multifator para entrar em um aplicativo
 
@@ -467,7 +467,7 @@ Para facilitar o gerenciamento de identidades nos serviços do Microsoft 365, o 
 -   Funções específicas do serviço: para os principais serviços do Microsoft 365, o Azure AD inclui funções específicas de serviço integradas que concedem permissões para gerenciar os recursos no serviço. Por exemplo, as funções internas do Azure AD para Administradores do Exchange, do Intune, do SharePoint e do Teams podem gerenciar recursos em seus respectivos serviços.
 	
 -   Funções entre serviços: há algumas funções no Azure AD que abrangem vários serviços. Por exemplo, o Azure AD tem funções relacionadas à segurança, como o Administrador de Segurança, que concedem acesso em vários serviços de segurança em Microsoft 365. Da mesma forma, na função Administrador de Conformidade, você pode gerenciar configurações relacionadas à Conformidade no Centro de Conformidade do Microsoft 365, no Exchange e assim por diante.
-![](<../Attachments/Pasted image 20230321164300.png>)
+![](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230321164300.png>)
 
 #### Diferença Entre O RBAC Do Azure AD E O RBAC Do Azure
 
@@ -475,7 +475,7 @@ As funções internas e personalizadas do Azure AD são uma forma de RBAC no qua
 
 -   RBAC do Azure AD – as funções do Azure AD controlam o acesso a recursos do Azure AD como usuários, grupos e aplicativos.
 -   RBAC do Azure: as funções do Azure controlam o acesso a recursos do Azure como máquinas virtuais ou armazenamento usando o Gerenciamento de Recursos do Azure.
-![500](<../Attachments/Pasted image 20230321164415.png>)
+![500](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230321164415.png>)
 
 ## Descrever Os Recursos Básicos De Segurança no Azure
 
@@ -493,7 +493,7 @@ Os três tipos mais frequentes de ataque de DDoS são:
 
 ### O Que É a Proteção contra DDoS Do Azure?
 
-![600](<../Attachments/Pasted image 20230321165030.png>)
+![600](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230321165030.png>)
 
 A Proteção contra DDoS usa a escala e a elasticidade da rede global da Microsoft para levar capacidade de mitigação de DDoS a todas as regiões do Azure. Durante um ataque de DDoS, o Azure pode dimensionar suas necessidades de computação para atender à demanda. A proteção contra DDoS gerencia o consumo de nuvem, garantindo que a carga de rede só reflita o uso real do cliente.
 
@@ -507,7 +507,7 @@ A proteção contra DDoS do Azure vem em três camadas:
 
 O firewall do Azure é um serviço de segurança de rede gerenciado e baseado em nuvem que protege seus recursos de Rede Virtual do Azure (VNet) contra invasores. Você pode implantar o Firewall do Azure em qualquer rede virtual, mas a melhor abordagem é usá-lo em uma rede virtual centralizada. Todas as outras redes virtuais e locais serão roteadas por meio dela. A vantagem desse modelo é a capacidade de exercer controle central do tráfego de rede para todos os seus VNets em assinaturas diferentes.
 
-![450](<../Attachments/Pasted image 20230321165507.png>)
+![450](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230321165507.png>)
 
 ### Principais Recursos Do Firewall Do Azure
 
@@ -524,7 +524,7 @@ O Firewall do Azure vem com muitos recursos, incluindo, entre outros:
 
 O WAF (Firewall do Aplicativo Web) fornece proteção centralizada de seus aplicativos Web contra vulnerabilidades e explorações comuns. Um WAF centralizado ajuda a tornar o gerenciamento de segurança mais simples, aprimora o tempo de resposta a uma ameaça de segurança e permite a aplicação de patch a uma vulnerabilidade conhecida em um só lugar, em vez de proteger cada aplicativo Web individual. Um WAF também oferece aos administradores de aplicativos melhor garantia de proteção contra ameaças e invasões.
 
-![500](<../Attachments/Pasted image 20230321165845.png>)
+![500](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230321165845.png>)
 
 ### Descrever a Segmentação De Rede no Azure
 
@@ -536,13 +536,13 @@ A segmentação de rede pode proteger as interações entre os perímetros. Essa
 
 A Rede Virtual do Azure (VNet) é o bloco de construção fundamental da rede privada de sua organização no Azure. A VNet é semelhante a uma rede tradicional que você operaria em seu próprio data center, mas traz benefícios adicionais da infraestrutura do Azure, como escala, disponibilidade e isolamento.
 
-![500](<../Attachments/Pasted image 20230321170059.png>)
+![500](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230321170059.png>)
 
 ### Descrever Grupos De Segurança De Rede Do Azure
 
 Os NSGs (grupos de segurança de rede) permitem filtrar o tráfego de rede de e para os recursos do Azure em uma rede virtual do Azure; por exemplo, uma máquina virtual. Um NSG consiste em regras que definem como o tráfego é filtrado. Você pode associar apenas um grupo de segurança de rede a cada sub-rede e adaptador de rede de uma rede virtual em uma máquina virtual. Entretanto, o mesmo grupo de segurança de rede pode ser associado a quantas interfaces de rede e de sub-rede você desejar.
 
-![500](<../Attachments/Pasted image 20230321170627.png>)
+![500](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230321170627.png>)
 
 #### Regras De Segurança De Entrada E Saída
 
@@ -568,7 +568,7 @@ Cada regra especifica uma ou mais das seguintes propriedades:
 
 O Azure Bastion é um serviço que ao ser implantado permite que você se conecte a uma máquina virtual usando seu navegador e o portal do Azure. O serviço do Azure Bastion é um serviço PaaS totalmente gerenciado por plataforma que pode ser provisionado dentro de sua rede virtual. O Azure Bastion fornece conectividade RDP e SSH segura e direta com suas máquinas virtuais diretamente do portal do Azure usando o protocolo TLS. Ao se conectar por meio do Azure Bastion, suas máquinas virtuais não precisarão de um endereço IP público, nem de um agente e tampouco de um software cliente especial.
 
-![500](<../Attachments/Pasted image 20230321171313.png>)
+![500](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230321171313.png>)
 
 A implantação do Azure Bastion é feita por rede virtual ou rede virtual com suporte a emparelhamento de rede virtual, não por assinatura, conta ou máquina virtual. Após você provisionar o serviço do Azure Bastion na sua rede virtual, a experiência de RDP/SSH é disponibilizada para todas as suas VMs na mesma VNet, assim como para as que estão em VNets emparelhadas
 
@@ -626,7 +626,7 @@ Um sistema SOAR usa alertas de várias fontes, como um sistema SIEM. Depois, o s
 
 O Microsoft Sentinel é uma solução de SIEM/SOAR escalonável e nativa de nuvem que disponibiliza análise de segurança inteligente e inteligência contra ameaças para toda a empresa. Ele fornece uma solução única para detecção de alertas, visibilidade de ameaças, busca proativa e resposta a ameaças.
 
-![400](<../Attachments/Pasted image 20230322164158.png>)
+![400](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230322164158.png>)
 
 #### Conectar O Sentinel Aos Dados
 
@@ -672,7 +672,7 @@ O Microsoft Sentinel fornece análise de segurança inteligente na empresa. Os d
 
 O Microsoft 365 Defender permite que os administradores avaliem sinais de ameaça de pontos de extremidade, aplicativos, emails e identidades para determinar o escopo e o impacto de um ataque. Ele fornece mais informações sobre como a ameaça ocorreu e quais sistemas foram afetados.
 
-![](<../Attachments/Pasted image 20230322191224.png>)
+![](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230322191224.png>)
 
 O pacote Microsoft 365 Defender protege:
 
@@ -715,7 +715,7 @@ Este plano inclui todos os principais recursos do Plano 1 e fornece automação,
 
 O Microsoft Defender para Ponto de Extremidade é uma plataforma criada para ajudar as redes corporativas a proteger os pontos de extremidade. Ele faz isso impedindo, detectando, investigando e respondendo a ameaças avançadas. O Microsoft Defender para Ponto de Extremidade incorpora a tecnologia incluídas nos serviços de nuvem do Windows 10 e MSFT.
 
-![](<../Attachments/Pasted image 20230322191733.png>)
+![](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230322191733.png>)
 
 O Microsoft Defender para Ponto de Extremidade inclui:
 
@@ -758,7 +758,7 @@ Um CASB atua como um gatekeeper para o acesso em tempo real de agentes entre os 
 -   A proteção do Controle de Aplicativos de **Acesso Condicional** oferece visibilidade em tempo real e controle sobre o acesso e as atividades dos aplicativos na nuvem. Evite vazamentos de dados bloqueando downloads antes que eles aconteçam, definindo regras para exigir que os dados armazenados e baixados da nuvem sejam protegidos com criptografia e controlando o acesso de redes não corporativas ou arriscadas.
 	
 -   Use **políticas** para detectar comportamento de risco, violações ou pontos de dados suspeitos e atividades em seu ambiente de nuvem. Você pode usar políticas para integrar os processos de correção e alcançar a mitigação de risco.
-![700](<../Attachments/Pasted image 20230323082501.png>)
+![700](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230323082501.png>)
 
 #### Office 365 Cloud App Security
 
@@ -797,9 +797,9 @@ Os cartões se enquadram nessas categorias:
 -   Dispositivos: obter informações atualizadas sobre alertas, atividade de violação e outras ameaças em seus dispositivos.
 -   Aplicativos: obter insights sobre como os aplicativos de nuvem estão sendo usados em sua organização.
 
-![760](<../Attachments/Pasted image 20230323083458.png>)
+![760](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230323083458.png>)
 
-![760](<../Attachments/Pasted image 20230323083727.png>)
+![760](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230323083727.png>)
 
 #### Buscando
 
@@ -813,4 +813,4 @@ A análise de ameaças é a solução de inteligência contra ameaças incluída
 
 O Microsoft Secure Score, uma das ferramentas do portal do Microsoft 365 Defender, representa a postura de uma empresa em relação à segurança. Quanto maior a classificação, melhor sua proteção.
 
-![760](<../Attachments/Pasted image 20230323084001.png>)
+![760](<../_attachments/Conceitos básicos de segurança, conformidade e identidade da Microsoft - descrever os conceitos de segurança, conformidade e identidade/20260208_20260208_Pasted-image-20230323084001.png>)

@@ -47,7 +47,7 @@ Your workflow contains one or more **jobs** which can run in sequential order 
 - You can configure a job's dependencies with other jobs; by default, jobs have no dependencies and run in parallel.
 - You can also use a **matrix** to run the same job multiple times, each with a different combination of variables—like operating systems or language versions.
 
-![](<../Attachments/overview-actions-simple.webp>)
+![](<../_attachments/GitHub Actions/20260208_20260208_overview-actions-simple.webp>)
 
 #### Actions
 
@@ -55,7 +55,7 @@ As actions são um conjunto de jobs que é reutilizavel dentro de um workflow.
 
 - Cada workflow cria variáveis de ambiente automáticas em cada execução [Automatic token authentication](https://docs.github.com/en/actions/security-guides/automatic-token-authentication)
 
-![](<../Attachments/Pasted image 20251026075915.png>)
+![](<../_attachments/GitHub Actions/20260208_20260208_Pasted-image-20251026075915.png>)
 
 ## References and Footnotes
 

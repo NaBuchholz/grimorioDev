@@ -1,18 +1,16 @@
 ---
-aliases: 
-type:
-tags: 
+aliases:
+type: book
+tags:
   - public
-status:
+status: Done
 kindle-sync:
-  bookId: '38589'
-  title: >-
-    Os monstros sabem o que estão fazendo: táticas de combate para mestres de
-    Dungeons & Dragons (Portuguese Edition)
+  bookId: "38589"
+  title: "Os monstros sabem o que estão fazendo: táticas de combate para mestres de Dungeons & Dragons (Portuguese Edition)"
   author: Keith Ammann
   asin: B08JHBCSKN
-  lastAnnotatedDate: '2022-05-13'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/9129SpX9UCL._SY160.jpg'
+  lastAnnotatedDate: 2022-05-13
+  bookImageUrl: https://m.media-amazon.com/images/I/9129SpX9UCL._SY160.jpg
   highlightsCount: 100
 ---
 

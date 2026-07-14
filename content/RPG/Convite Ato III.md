@@ -51,4 +51,5 @@ status: Done
 \[Theo caminha até a porta, cada passo deixando um breve rastro luminoso que se desvanece rapidamente]
 
 **Theo**: *(sem se virar)* Duas semanas, Clara. Faça-as valerem a pena.
+
 \[Clara fica sozinha na mesa, o muiraquitã pulsando em sua mão como um coração verde. O barista continua seu trabalho, aparentemente alheio ao fato de que as sombras no café agora se movem contra a luz.]

@@ -1,9 +1,8 @@
 ---
 aliases:
-status:
-type: Card
+status: Done
+type: book
 title: Comunicação Não Violenta
-description:
 tags:
   - Ecole42
   - Done

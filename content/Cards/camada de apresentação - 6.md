@@ -10,7 +10,7 @@ aliases:
 status: Done
 relatedTo:
   - "[[./O que é o Modelo OSI]]"
-  - "[[../MOCs/Born 2 Be Root]]"
+  - "[[../03-Projects/Born 2 Be Root]]"
 ---
 
 ## Resume
@@ -23,7 +23,7 @@ camada de apresentação - 6 é a principal responsável pela preparação dos d
 
 [^1]A Camada de Apresentação também resolve problemas de diferenças de sintaxe entre sistemas abertos comunicantes.
 
-![camada de apresetação](<../Attachments/Pasted image 20241121105013.png>)
+![camada de apresetação](<../_attachments/camada de apresentação - 6/20260208_20260208_Pasted-image-20241121105013.png>)
 
 [^2]Algumas autoridades consideram que a [criptografia HTTPS](https://www.cloudflare.com/learning/ssl/what-is-https/) e a descriptografia ocorrem nesta camada.
 

@@ -25,18 +25,16 @@ tags:
 
 ## CYNEFIN
 
-![](<../Attachments/imagem2.webp>)
+![](<../_attachments/Gestão de produtos digitais - Produto vs. Projeto/20260208_20260208_imagem2.webp>)
 
-![](<../Attachments/Pasted image 20231217144357.png>)
+![](<../_attachments/Gestão de produtos digitais - Produto vs. Projeto/20260208_20260208_Pasted-image-20231217144357.png>)
 
 ## Tipos De Releases
 
-![](<../Attachments/Pasted image 20231217151120.png>)
+![](<../_attachments/Gestão de produtos digitais - Produto vs. Projeto/20260208_20260208_Pasted-image-20231217151120.png>)
 
 - Time boxed: criar uma regularidade entre as tarefas, definindo uma data para atingir as metas estabelecidas por cada projeto.
-	
 - Feature boxed: a entrega final do projeto não tem data definida, porém o escopo já é entregue obtendo apenas versões antes do lançamento oficial do projeto.
-	
 - Triângulo de ferro: escopo, tempo e dinheiro.
 - Lean Startup: a partir de uma ideia o produto é construído, as métricas para medir o experimento são definidas e ao analisá-las é possível observar o que está dando certo e o que deve ser melhorado.
 - Design Thinking: usar ferramentas para conhecer o cliente e o mercado que você vai lidar.

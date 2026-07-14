@@ -1,9 +1,8 @@
 ---
 aliases:
-status:
 type: Card
 title: Comando Touch
-description: Done
+status: Done
 tags:
   - linux
   - public

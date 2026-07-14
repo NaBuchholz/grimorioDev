@@ -5,7 +5,7 @@ tags:
   - public
 aliases:
   - Theo
-status: Draft
+status: Doing
 system:
   - Call of Cthulhu 7th Edition
 relatedTo:

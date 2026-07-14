@@ -1,6 +1,6 @@
 ---
-aliases: 
-status:
+aliases:
+status: Done
 type: Card
 title: Fatorial
 description:

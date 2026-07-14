@@ -42,12 +42,12 @@ A Fundação Beatriz Costa opera sob três pilares principais:
 
 A FBC é dividida em **quatro diretorias principais**, cada uma responsável por uma área específica de atuação:
 
-1. **Diretoria de Atendimento Médico e Psicológico (DAMP)**:  
+1. **Diretoria de Atendimento Médico e Psicológico (DAMP)** [Dra. Soresen](../characters/Ingrid%20Soresen.md):  
    - Responsável pelo tratamento direto dos pacientes expostos ao Além-Véu.  
    - Oferece serviços de **medicina interna**, **psiquiatria**, **psicologia** e **terapias alternativas** para tratar os efeitos físicos e mentais da exposição.  
    - Mantém hospitais e clínicas especializadas em todo o Brasil, equipados com tecnologia de ponta.
 
-2. **Diretoria de Pesquisa e Desenvolvimento (DPD)**:  
+1. **Diretoria de Pesquisa e Desenvolvimento (DPD)** [Tiago Ribeiro da Fonseca](../characters/Tiago%20Ribeiro%20da%20Fonseca.md):  
    - Dedica-se ao estudo dos efeitos do Além-Véu em humanos, buscando entender as causas e consequências da exposição.  
    - Desenvolve **protocolos de tratamento**, **medicamentos** e **terapias experimentais** para ajudar na recuperação dos pacientes.  
    - Colabora com universidades e institutos de pesquisa nacionais e internacionais.
@@ -67,7 +67,7 @@ A FBC é dividida em **quatro diretorias principais**, cada uma responsável por
 ### Hierarquia
 
 1. **Diretor-Geral**:  
-   - **Dr. Henry Allan Lopes**: Médico e pesquisador renomado, o Dr. Lopes é o líder máximo da FBC. Ele supervisiona todas as operações e toma as decisões finais. Conhecido por sua abordagem humanista e científica, ele é respeitado tanto por sua equipe quanto por autoridades governamentais.
+   - **[Dr. Henry Allen Lopez](../characters/Dr.%20Henry%20Allen%20Lopez.md)**: Médico e pesquisador renomado, o Dr. Lopes é o líder máximo da FBC. Ele supervisiona todas as operações e toma as decisões finais. Conhecido por sua abordagem humanista e científica, ele é respeitado tanto por sua equipe quanto por autoridades governamentais.
 
 2. **Diretores de Diretoria**:  
    - Cada diretoria é liderada por um diretor especializado, responsável por coordenar as atividades de sua área.  

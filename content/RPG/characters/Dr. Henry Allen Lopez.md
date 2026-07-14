@@ -16,7 +16,7 @@ status: Done
 profission: Agente Secreto / Médico
 ---
 
-![300](<../../Attachments/rpg-images/DrHenryAlle Lopez.jpg>)
+![300](<../../_attachments/Dr. Henry Allen Lopez/20260208_20260208_DrHenryAlle-Lopez.jpg>)
 
 ## Background
 

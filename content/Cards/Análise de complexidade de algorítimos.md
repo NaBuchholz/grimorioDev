@@ -10,7 +10,7 @@ aliases:
   - complexidade algoritmica
 status: Doing
 relatedTo:
-  - "[Push Swap](<../MOCs/Push Swap.md>)"
+  - "[Push Swap](<../03-Projects/Push Swap.md>)"
 ---
 
 ## O Que É Análise De Complexidade De Algorítimos ?
@@ -34,9 +34,9 @@ Análise de complexidade de algorítimos é um método de verificação de desem
 
 | Linear                                                      | Binária                                               |
 | ----------------------------------------------------------- | ----------------------------------------------------- |
-| ![linear](<../Attachments/Pasted image 20241216103239.png>) | ![](<../Attachments/Pasted image 20241216103326.png>) |
+| ![linear](<../_attachments/Análise de complexidade de algorítimos/20260208_20260208_Pasted-image-20241216103239.png>) | ![](<../_attachments/Análise de complexidade de algorítimos/20260208_20260208_Pasted-image-20241216103326.png>) |
 
-  ![](<../Attachments/Pasted image 20241216104024.png>) 
+  ![](<../_attachments/Análise de complexidade de algorítimos/20260208_20260208_Pasted-image-20241216104024.png>) 
 
 ## Big O Notation
 
@@ -46,7 +46,7 @@ Análise de complexidade de algorítimos é um método de verificação de desem
 >[^4]A notação do O é sobre um “limite por cima”; a omega, “limite por baixo”; e a theta é a combinação de ambos. ‘Small’ Notations representam afirmações mais rígidas sobre a complexidade do que ‘Big’ Notations.
 
 - Também é usado para determinar o espaço consumido pelo algoritmo.
-![big O notation graph | 300](<../Attachments/HTj2Ri2kXpmYdnLVJB4pGk7fnv_XpYwNWTtGGo4vCu9F2vYm6LeFST-q_fRYkcmRN9vrMtsh4-WK0Tx-F_fOaKHYAGrKkELBfitbe0qeJlmnZ7Rir7ikW9YFc_QqjXY_McJrNyX7-1.webp>)
+![big O notation graph | 300](<../_attachments/Análise de complexidade de algorítimos/20260208_20260208_HTj2Ri2kXpmYdnLVJB4pGk7fnv_XpYwNWTtGGo4vCu9F2vYm6LeFST-q_fRYkcmRN9vrMtsh4-WK0Tx-F_fOaKHYAGrKkELBfitbe0qeJlmnZ7Rir7ikW9YFc_QqjXY_McJrNyX7-1.webp>)
 
 ### Complexidade
 
@@ -99,7 +99,7 @@ func main() {
 
 ## Algoritmos De Organização | Sorting Algorithms
 
-![](<../Attachments/Screenshot from 2024-12-16 14-24-56.png>)
+![](<../_attachments/Análise de complexidade de algorítimos/20260208_20260208_Screenshot-from-2024-12-16-14-24-56.png>)
 
 ## References and Footnotes
 

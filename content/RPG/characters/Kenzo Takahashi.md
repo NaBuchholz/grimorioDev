@@ -58,13 +58,9 @@ Ele não se considera bom nem mau — apenas alguém que entende a complexidade 
 ## **Habilidades E Recursos**
 
 - **Viagem Física às Dreamlands** – Ao contrário da maioria dos Sonhadores, Kenzo pode levar seu corpo para as Terras dos Sonhos, permitindo que traga objetos e informações de lá.
-	
 - **Percepção Aumentada** – Ele sente emoções e intenções com facilidade, como se pudesse "ler" o tecido dos sonhos das pessoas.
-	
 - **Influência Sutil** – Manipula levemente as pessoas ao seu redor para garantir uma vida tranquila, sem jamais parecer forçado ou opressor.
-	
 - **Conhecimento Antigo** – Sabe de segredos das Dreamlands que poucos ousariam descobrir. Ele pode indicar caminhos ocultos, rituais esquecidos e entidades que ainda não despertaram.
-	
 - **Resistência ao Despertar** – Pode permanecer nas Dreamlands por longos períodos sem sofrer as consequências normais do tempo e do cansaço.
 
 ### Feitiços
@@ -76,9 +72,7 @@ Ele não se considera bom nem mau — apenas alguém que entende a complexidade 
 ## **Motivações**
 
 - **Exploração do Sonhar** – O que realmente interessa a Kenzo são os mistérios das Dreamlands. Seu desejo de desvendar o desconhecido o mantém sempre curioso.
-	
 - **Evitar Interferência Direta** – Ele acredita que influenciar demais os acontecimentos do mundo desperto pode causar mais mal do que bem.
-	
 - **Manter o Equilíbrio** – Mesmo não interferindo diretamente, ele ajusta pequenas peças aqui e ali para manter a ordem entre os Sonhadores e o mundo desperto.
 
 ---
@@ -86,9 +80,7 @@ Ele não se considera bom nem mau — apenas alguém que entende a complexidade 
 ## **Relações**
 
 - **Sonhadores das Dreamlands** – Conhece várias figuras poderosas do Sonhar, algumas amigáveis, outras nem tanto. Ele sabe quem deve evitar e a quem pode recorrer em tempos de necessidade.
-	
 - **Colecionadores de Segredos** – No mundo desperto, tem contatos em círculos ocultistas e acadêmicos que buscam conhecimento sobre o Sonhar, mas raramente compartilha tudo o que sabe.
-	
 - **Os Jogadores** – Se forem interessantes o suficiente para merecer sua atenção, ele pode ser uma fonte de informações valiosas, desde que a troca valha a pena.
 
 ---
@@ -102,13 +94,9 @@ Vcs vão descobrindo .. calma lá
 ## **Citações Marcantes**
 
 - _"Sonhos são mais reais do que vocês imaginam. E a realidade? Bom... talvez não seja tão real assim."_
-	
 - _"Eu não sou um guia, nem um mestre. Mas se você tiver sorte, posso te mostrar algo interessante."_
-	
 - _"Se você sonha comigo... talvez isso signifique algo. Ou talvez seja só um sonho."_
-	
 - _"Eu não salvo pessoas. Só as aviso."_
-	
 - _"Ela existiu. Eu não estou louco. Mas se eu estiver... isso muda alguma coisa?"_
 
 ---

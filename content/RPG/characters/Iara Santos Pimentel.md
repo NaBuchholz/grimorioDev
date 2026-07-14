@@ -16,7 +16,7 @@ status: Done
 
 ## **Descrição Física**
 
-![300](<../../Attachments/rpg-images/IaraSantos.jpg>)
+![300](<../../_attachments/Iara Santos Pimentel/20260208_20260208_IaraSantos.jpg>)
 
 Iara Santos é uma mulher de 45 anos, com traços indígenas marcantes e cabelos longos e escuros, geralmente presos em um rabo de cavalo. Seus olhos castanhos são penetrantes, refletindo uma mistura de dor e determinação. O rosto de Iara carrega as marcas de seu passado turbulento: queimaduras de primeiro e segundo grau cobrem parte de sua pele, lembranças visíveis de um confronto violento que quase a consumiu. No entanto, de alguma maneira, ela consegue transformar essas cicatrizes em algo quase belo. Uma fina camada de "lama" — uma mistura de argila e pigmentos naturais — cobre uniformemente seu rosto, suavizando as marcas e dando-lhe um aspecto enigmático e quase etéreo. Essa camada não esconde completamente as queimaduras, mas as transforma em parte de sua identidade, como se fossem pinturas tribais que contam uma história de resistência e sobrevivência.
 
@@ -24,7 +24,7 @@ Ela veste roupas simples, muitas vezes combinando elementos tradicionais indíge
 
 ## **Histórico**
 
-Iara Santos nasceu em uma favela do Brasil. Durante sua juventude, ela ingressou no exército, onde serviu por vários anos e viajou em missões ao exterior. No entanto, após testemunhar inúmeras injustiças e atrocidades cometidas , ela deixou o exército e decidiu dedicar sua vida à proteção de seu povo. Nos ultimos anos tornou-se antropóloga, especializando-se em culturas indígenas e rituais ancestrais.
+Iara Santos nasceu em uma favela do Brasil. Durante sua juventude, ela ingressou no exército, onde serviu por vários anos e viajou em missões ao exterior. No entanto, após testemunhar inúmeras injustiças e atrocidades cometidas , ela deixou o exército e decidiu dedicar sua vida à proteção de seu povo. Nos últimos anos tornou-se antropóloga, especializando-se em culturas indígenas e rituais ancestrais.
 
 Iara ingressou na Arkan há 15 anos com boas intenções, acreditando que poderia usar sua posição para ajudar a preservar o conhecimento indígena e proteger sua comunidade. No entanto, ao longo dos anos, ela testemunhou as práticas antiéticas da organização, incluindo o uso de crianças indígenas em experimentos cruéis para manter a entidade aprisionada. Sua desilusão cresceu à medida que percebeu que a Arkan não estava interessada em proteger o conhecimento, mas sim em controlá-lo a qualquer custo.
 

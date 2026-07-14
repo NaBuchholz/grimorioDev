@@ -3,8 +3,8 @@ type:
 tags:
   - Study
   - public
-aliases: 
-status: Draft
+aliases:
+status: Doing
 relatedTo: []
 ---
 
