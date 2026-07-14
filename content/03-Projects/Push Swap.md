@@ -1,4 +1,5 @@
 ---
+type:
 tags:
   - 42Ecole
   - 42sp
@@ -13,14 +14,13 @@ docs:
   - "[Push_swap](<../Attachments/Push_swap.pdf>)"
 ---
 
-
-# O Que é Push Swap ?
+## O Que É Push Swap ?
 
 This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. To succeed you’ll have to manipulate various types of algorithms and choose the most appropriate solution (out of many) for an optimized data sorting.
 
 Repository: https://github.com/NaBuchholz/ft_push_swap
 
-## Tarefas
+### Tarefas
 
 - [x] RTFM ✅ 2024-12-09
 - [x] Register in intra page ✅ 2024-12-16
@@ -38,7 +38,8 @@ Repository: https://github.com/NaBuchholz/ft_push_swap
 - [x] FINISH ✅ 2025-04-16
 - [x] Schedule evaluations ✅ 2025-04-16
 
-## Related Content
+### Related Content
+
 - [Memory Leak](<../Cards/Memory Leak.md>)
 -  [Radix sort](<../Cards/Radix sort.md>)
 - [BitWize](../Cards/Operações%20BitWize.md)
@@ -46,19 +47,20 @@ Repository: https://github.com/NaBuchholz/ft_push_swap
 
 ```
 
-## Documentação
+### Documentação
 
 ![Push\_swap](<../_attachments/Push Swap/20260208_20260208_20260208_Push_swap.pdf>)
 
-
-
-## Vídeos relacionados
+### Vídeos Relacionados
 
 ![Visualização de algoritmos de ordenação](https://www.youtube.com/watch?v=kPRA0W1kECg)
+
 - Esse video mostra a eficiência e a reprodução dos argorítmos de ordenação, da para perceber com o radix é mais eficiente , principalmente em maiores quantidades de elementos.
 
 [Short explicando o radix sort](https://www.youtube.com/shorts/ZHjCj0Oz6hk)
+
 - como ele organiza por dígito de trás pra frente o número de operações é sempre ordenado pelo numero com maior numero de dígitos.
-## Referências e Footnotes
+
+### Referências E Footnotes
 
 https://en.wikipedia.org/wiki/Analysis_of_algorithms

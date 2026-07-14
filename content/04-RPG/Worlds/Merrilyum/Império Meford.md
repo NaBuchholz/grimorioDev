@@ -28,7 +28,7 @@ Nas fileiras do [Império Meford](https://app.kanka.io/w/80546/entities/2250213
 
 A Família [Meford](https://app.kanka.io/w/80546/entities/2208168) governa a 3 gerações de meios - elfos. 
 
-Em guerra com [[Togre]]
+Em guerra com [[./Togre]]
 
 Raças Comuns: Meio- elfos, Humanos, Elfos, Halflings, Draconatos, Gnomos, Anões, Tieflings
 

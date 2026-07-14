@@ -6,8 +6,6 @@ tags:
 status: draft
 ---
 
-**sujeito a mudanças**
-
 Aiyé é um mundo em tensão. Nenhuma nação controla tudo que precisa, e é isso que mantém comércio, alianças, guerras e traições em movimento. A Guerra da Fome começou em Tessenor, mas suas consequências já alcançam portos, templos, minas, celeiros, arquipélagos e escolas arcanas.
 
 ---
@@ -23,14 +21,14 @@ Para uns, Tessenor é corajosa. Para outros, blasfema. Para seu povo, muitas vez
 
 ---
 
-## Gẹ̀lẹ̀dẹ́
+## Gelede
 
 **Recursos:** cereais de celeiro e dendê ritual.  
 **Influência:** a ortodoxia de Amuka.
 
-Gẹ̀lẹ̀dẹ́ é a grande defensora da ordem, dos limites e dos ritos corretos. Seus celeiros alimentam muita gente, e seu dendê é usado em comida, lâmpadas, funerais e cerimônias sagradas.
+gelede é a grande defensora da ordem, dos limites e dos ritos corretos. Seus celeiros alimentam muita gente, e seu dendê é usado em comida, lâmpadas, funerais e cerimônias sagradas.
 
-Seus sacerdotes são respeitados por saberem encerrar lutos, disputas e ciclos. Seus críticos dizem que Gẹ̀lẹ̀dẹ́ confunde cuidado com controle. A própria nação responde que liberdade sem limite vira fome.
+Seus sacerdotes são respeitados por saberem encerrar lutos, disputas e ciclos. Seus críticos dizem que gelede confunde cuidado com controle. A própria nação responde que liberdade sem limite vira fome.
 
 ---
 

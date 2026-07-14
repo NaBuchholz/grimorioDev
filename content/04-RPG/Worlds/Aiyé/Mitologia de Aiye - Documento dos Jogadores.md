@@ -108,13 +108,13 @@ Há boatos recentes de que sua presença está mais forte do que deveria. Em Kry
 
 Oríkì é louvor, nome, memória, linhagem, feito e canto. Em Aiyé, não é apenas arte. É força. Cantar alguém é posicionar essa pessoa no mundo. Repetir um nome com admiração pode preservá-lo. Repetir demais, do jeito errado, pode transformá-lo.
 
-Entre os Ará Ìlẹ̀, o oríkì é parte natural da vida social. Famílias, reis, guerreiros, mercados e mortos importantes são cantados para que sua memória permaneça viva. Em Egeia, algo parecido acontece através de glória pública, teatro e fama cívica, embora os egeios geralmente evitem chamar isso de oríkì. Em Akrís, o canto individual de louvor é controlado ou proibido, pois os Oì Siopítes acreditam que todo oríkì pode se tornar uma porta para um futuro senhor.
+Entre os Ará Ìle, o oríkì é parte natural da vida social. Famílias, reis, guerreiros, mercados e mortos importantes são cantados para que sua memória permaneça viva. Em Egeia, algo parecido acontece através de glória pública, teatro e fama cívica, embora os egeios geralmente evitem chamar isso de oríkì. Em Akrís, o canto individual de louvor é controlado ou proibido, pois os Oì Siopítes acreditam que todo oríkì pode se tornar uma porta para um futuro senhor.
 
 Essa divergência é uma das grandes tensões religiosas do mundo. Para alguns povos, negar louvor é matar alguém pela segunda vez. Para outros, louvar demais é começar a construir um trono.
 
 ### A Guerra Da Fome
 
-A Guerra da Fome é o nome popular do conflito que envolve Tessenor, Karas e Gẹ̀lẹ̀dẹ́. Os clérigos costumam chamá-la de Guerra Santa dos Três Reinos, mas o povo prefere o nome que sente no corpo. O conflito nasceu porque a Função de Amuka parece quebrada e porque o território entre esses reinos guarda o Lago Ìrànti, considerado por muitos uma das maiores cicatrizes sagradas de Aiyé.
+A Guerra da Fome é o nome popular do conflito que envolve Tessenor, Karas e Gelede. O conflito nasceu porque a Função de Amuka parece quebrada e porque o território entre esses reinos guarda o Lago Ìrànti, considerado por muitos uma das maiores cicatrizes sagradas de Aiyé.
 
 A tradição afirma que o Lago Ìrànti marca um lugar onde a Ferida da Separação permaneceu aberta por tempo demais. Por isso, sacerdotes, reis, vigias e facções acreditam que controlar ou compreender o lago pode ajudar a restaurar a ordem do mundo, explorar sua fraqueza ou impedir que inimigos façam o mesmo. Poucos sabem exatamente o que existe sob suas águas, e menos ainda concordam sobre quem deveria protegê-lo.
 
