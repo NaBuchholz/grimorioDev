@@ -66,11 +66,11 @@ Os Nascidos se manifestam de maneiras diferentes. Alguns aparecem em sonhos ou v
 
 ### Danladi, O Rei Que Não Morreu Duas Vezes
 
-Danladi é lembrado como rei-guerreiro-poeta, defensor de seu povo e símbolo de glória preservada. Sua história muda conforme a nação que a conta. Tessenor, Karas e Gẹ̀lẹ̀dẹ́, cada uma à sua maneira, reivindicam alguma relação com seu sangue, seu legado ou sua memória. Nenhuma consegue provar de forma definitiva que é a única herdeira legítima.
+Danladi é lembrado como rei-guerreiro-poeta, defensor de seu povo e símbolo de glória preservada. Sua história muda conforme a nação que a conta. [[Tessenor]], [[Dòkun]] e [[Gẹ̀lẹ̀dẹ́]], cada uma à sua maneira, reivindicam alguma relação com seu sangue, seu legado ou sua memória. Nenhuma consegue provar de forma definitiva que é a única herdeira legítima.
 
 Para seus devotos, Danladi prova que a vida mortal pode ultrapassar o limite da morte através de feito, nome e lembrança. Ele é generoso com quem carrega seu sangue, seu estandarte ou seu canto. Também é chamado por soldados, reis, poetas, genealogistas e pessoas que temem desaparecer sem deixar marca.
 
-Para seus críticos, Danladi representa uma fome perigosa: a fome de ser lembrado para sempre. Gẹ̀lẹ̀dẹ́ o trata com extrema cautela. Akrís o vê como exemplo do risco de permitir que memória vire autoridade. Dòkun o honra como comandante divino de campanha. Em Tessenor, seu culto tornou-se centro de uma ruptura política e religiosa que ainda sangra.
+Para seus críticos, Danladi representa uma fome perigosa: a fome de ser lembrado para sempre.Dòkun o honra como comandante divino de campanha. Em Tessenor, seu culto tornou-se centro de uma ruptura política e religiosa que ainda sangra.
 
 ### Amara Das Mil Portas
 
