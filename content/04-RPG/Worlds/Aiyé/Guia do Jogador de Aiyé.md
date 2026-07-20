@@ -42,7 +42,7 @@ Os [[Ará Ìlẹ̀, o Povo da Terra]], vivem principalmente nas planícies fért
 
 Os [[Ọmọ Òkè, os Filhos da Montanha]], predominam em Ilunji e Dòkun. Sua cultura nasceu da relação entre o planalto, a estepe e os movimentos sazonais de pessoas e rebanhos. [[Ilunji]] enfatiza permanência, arquivo e montanha; [[Dòkun]] enfatiza marcha, forja e serviço militar. Povos nômades próximos a Aṣálẹ̀ compartilham parte dessa herança, mas preservam sua independência.
 
-Os [[Kýklos]] são o povo marítimo de [[Krysia]] e [[Egeia]], conhecido por suas ilhas, portos, casas mercantes e comunidades espalhadas por diferentes costas, organizam-se em pólis rivais, unidas por teatro, festivais ou defesa naval. Os Oì Siopítes, o Povo do Silêncio, formam a população de [[Akrís]] e aqueles que por opção recusam que qualquer culto ou religião do mundo exerça domínio sobre assuntos mortais.
+Os [[Kýklos]] são o povo marítimo de [[Krysia]] e [[./Egeia - Notas do Mestre]], conhecido por suas ilhas, portos, casas mercantes e comunidades espalhadas por diferentes costas, organizam-se em pólis rivais, unidas por teatro, festivais ou defesa naval. Os Oì Siopítes, o Povo do Silêncio, formam a população de [[Akrís]] e aqueles que por opção recusam que qualquer culto ou religião do mundo exerça domínio sobre assuntos mortais.
 
 ## Antigos E Nascidos
 

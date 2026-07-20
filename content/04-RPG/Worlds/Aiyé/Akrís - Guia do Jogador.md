@@ -196,7 +196,7 @@ Para quase todos, é só pano. Para quem sabe, significa:
 
 > **“Aqui há mortais que não entregam mortais aos deuses.”**
 
-O Pano acolhe ex-sacerdotes, crianças prometidas a cultos, refugiados de guerra santa, pessoas perseguidas por possessão, desertores de [[./Dòkun - Nota do Mestre]], bardos arrependidos, vítimas de linhagem sagrada, órfãos de [[Tessenor]], dissidentes de [[Gẹ̀lẹ̀dẹ́]], fugitivos de [[Karas]], artistas de [[Egeia]] e qualquer pessoa que queira deixar de pertencer a uma autoridade divina e ir para o planalto.
+O Pano acolhe ex-sacerdotes, crianças prometidas a cultos, refugiados de guerra santa, pessoas perseguidas por possessão, desertores de [[./Dòkun - Nota do Mestre]], bardos arrependidos, vítimas de linhagem sagrada, órfãos de [[Tessenor]], dissidentes de [[Gẹ̀lẹ̀dẹ́]], fugitivos de [[Karas]], artistas de [[./Egeia - Notas do Mestre]] e qualquer pessoa que queira deixar de pertencer a uma autoridade divina e ir para o planalto.
 
 Pouquíssimos sabem que também é algo mais...
 
