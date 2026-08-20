@@ -11,7 +11,7 @@ status:
 
 **Por Ludmila Vetrova – Jornal Pravda da Alvorada**
 
-Nos confins gelados da Rússia, onde o frio congela até a esperança, vive e atua uma mulher que muitos chamam de santa, outros de tempestade. [Abadessa Tânia Golenishchev](<./characters/Abadessa Tânia Golenishchev.md>), a abadessa dos Urais, é o tipo de nome que os padres pronunciam com cautela e os leigos sussurram com temor. Seus exorcismos não são cerimônias – são batalhas.
+Nos confins gelados da Rússia, onde o frio congela até a esperança, vive e atua uma mulher que muitos chamam de santa, outros de tempestade. [Abadessa Tânia Golenishchev](<../04-RPG/Worlds/Kosmos/Abadessa Tânia Golenishchev.md>), a abadessa dos Urais, é o tipo de nome que os padres pronunciam com cautela e os leigos sussurram com temor. Seus exorcismos não são cerimônias – são batalhas.
 
 ### **As Vozes Da Terra Congelada**
 

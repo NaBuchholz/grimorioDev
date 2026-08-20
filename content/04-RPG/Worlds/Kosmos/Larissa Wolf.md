@@ -6,8 +6,11 @@ tags:
   - rpg/dming
   - public
 status: Doing
-last_location: "[[../locations/São Paulo]]"
+last_location: "[[../../../RPG/locations/São Paulo]]"
 age: 78
+character-type: npc
+img-url: https://i.pinimg.com/1200x/45/6b/40/456b4056b36b3850836de4a8220f6e34.jpg
+condition: alive
 ---
 
 Larissa é uma mulher de presença forte. **Alta, com cabelos crespos agora tingidos de castanho avermelhado**, ela tem um olhar afiado e uma postura que impõe respeito. Sua pele carrega as marcas do tempo e do trabalho árduo, mas também a beleza da experiência.

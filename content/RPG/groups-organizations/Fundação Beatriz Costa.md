@@ -42,7 +42,7 @@ A Fundação Beatriz Costa opera sob três pilares principais:
 
 A FBC é dividida em **quatro diretorias principais**, cada uma responsável por uma área específica de atuação:
 
-1. **Diretoria de Atendimento Médico e Psicológico (DAMP)** [Dra. Soresen](../characters/Ingrid%20Soresen.md):  
+1. **Diretoria de Atendimento Médico e Psicológico (DAMP)** [Dra. Soresen](<../../04-RPG/Worlds/Kosmos/Ingrid Soresen.md>):  
    - Responsável pelo tratamento direto dos pacientes expostos ao Além-Véu.  
    - Oferece serviços de **medicina interna**, **psiquiatria**, **psicologia** e **terapias alternativas** para tratar os efeitos físicos e mentais da exposição.  
    - Mantém hospitais e clínicas especializadas em todo o Brasil, equipados com tecnologia de ponta.

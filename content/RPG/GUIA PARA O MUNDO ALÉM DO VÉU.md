@@ -117,9 +117,7 @@ A **Societas Sancti** é uma sociedade secreta vinculada à Igreja Católica, de
 #### ESTRUTURA HIERÁRQUICA
 
 1. **Cains**: Agentes de campo que recebem poderes dos arcanjos para combater ameaças ocultas. São treinados para exorcismos, caçadas a monstros e investigações sobrenaturais.
-	
 2. **Liliths**: Posições de alto escalão ocupadas exclusivamente por mulheres. Não possuem poderes mágicos como os Cains, mas são altamente habilidosas em coleta de informações, infiltração e diplomacia. Atuam como líderes e coordenadoras das operações.
-	
 3. **Eva**: A misteriosa líder suprema da SS, que responde apenas ao Papa. Envolta em lendas sobre suas habilidades sobrenaturais, é a autoridade final dentro da organização.
 	
 

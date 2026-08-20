@@ -1,6 +1,6 @@
 ---
 aliases:
-type: fictionalInformation
+type: organization
 tags:
   - rpg/2020
   - RPG/Kosmos

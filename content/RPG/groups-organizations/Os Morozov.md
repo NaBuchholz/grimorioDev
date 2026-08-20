@@ -52,7 +52,7 @@ A família Morozov surgiu nas regiões montanhosas da fronteira entre Romênia e
 - **Feito Notável:** Criou o **Espelho Hemático**, um dispositivo contendo sangue familiar preservado entre camadas de vidro e prata, que atua como um portal para visões de extraordinária clareza.
 - **Morte:** Mikhail faleceu durante uma tentativa de criar um reservatório hemático de grande escala, quando uma entidade parcialmente materializada atravessou o espelho e o drenou completamente de sangue, deixando apenas um corpo ressecado com pele prateada.
 
-### **6ª Geração: [Irina Morozov](<../characters/Irina Morozov.md>) (1975-Presente)**
+### **6ª Geração: [Irina Morozov](<../../04-RPG/Worlds/Kosmos/Irina Morozov.md>) (1975-Presente)**
 
 - **Filha de Mikhail:** Irina possui a capacidade mais refinada da linhagem, podendo alterar a composição de seu sangue voluntariamente para sintonizar-se com diferentes frequências de comunicação e visão.
 - **Feito Notável:** Desenvolveu o **Protocolo da Transfusão Visionária**, um método para compartilhar visões diretamente através de pequenas transfusões sanguíneas controladas, permitindo que outros experimentem brevemente o dom da família.

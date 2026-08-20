@@ -19,7 +19,7 @@ isPlayer:
 
 ## Descrição Física Para Os Jogadores
 
-![Maja | 300](<../../_attachments/Marja Nilsen/20260208_20260208_Maja.jpeg>)
+![Maja | 300](<../../_attachments/Marja Nilsen/20260816_20260208_20260208_Maja.jpeg>)
 
 ## Histórico (Background)
 

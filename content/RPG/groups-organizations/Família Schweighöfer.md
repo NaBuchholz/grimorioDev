@@ -102,4 +102,4 @@ Inicialmente acreditando ser um efeito colateral negativo, Helena eventualmente 
 
 **Instituto Wolfliore:** Colaboração em pesquisa sobre efeitos psicológicos de exposição ao Mythos.
 
-[Concílio Heptagonal](<../Concílio Heptagonal.md>) : A família é banida de assuntos envolvendo o concílio por interesses opostos , o concilio é um lugar de neutralidade.Também expandiu a teoria ilusória da família, documentando como diferentes estados emocionais criam vulnerabilidades a ilusões específicas.
+[Concílio Heptagonal](<../../04-RPG/Worlds/Kosmos/Concílio Heptagonal.md>) : A família é banida de assuntos envolvendo o concílio por interesses opostos , o concilio é um lugar de neutralidade.Também expandiu a teoria ilusória da família, documentando como diferentes estados emocionais criam vulnerabilidades a ilusões específicas.
