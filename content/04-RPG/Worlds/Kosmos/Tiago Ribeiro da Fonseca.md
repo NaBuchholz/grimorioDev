@@ -27,7 +27,7 @@ Seu sorriso é **aconchegante e sincero**, e ele tem uma **postura relaxada** qu
 
 ## **Relações**
 
-Pai de [[./Edgard Theodoro da Fonseca|Theo]]
+Pai de [[../../../RPG/characters/Edgard Theodoro da Fonseca|Theo]]
 Avô de [[Edgard Andy Krause Fonseca]]
 ---
 
@@ -57,7 +57,7 @@ Tiago é um defensor ferrenho da diversidade e inclusão dentro da FBC. Ele acre
 
 - **Ele já testou tratamentos experimentais em si mesmo.** Alguns dizem que Tiago não tem medo de ser o primeiro a testar novas terapias, mesmo que isso signifique correr riscos.
 - **Ele tem conexões com universidades internacionais.** Tiago é conhecido por colaborar com pesquisadores de todo o mundo, trazendo conhecimento global para a FBC.
-- **Ele esconde um segredo pessoal.** Há rumores de que Tiago teve uma experiência traumática com o Além-Véu no passado, envolvendo seu filho desaparecido, [Edgard Theodoro da Fonseca](<./Edgard Theodoro da Fonseca.md>), mas ele nunca fala sobre isso.
+- **Ele esconde um segredo pessoal.** Há rumores de que Tiago teve uma experiência traumática com o Além-Véu no passado, envolvendo seu filho desaparecido, [Edgard Theodoro da Fonseca](<../../../RPG/characters/Edgard Theodoro da Fonseca.md>), mas ele nunca fala sobre isso.
 
 ---
 

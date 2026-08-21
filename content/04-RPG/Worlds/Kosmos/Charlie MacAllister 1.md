@@ -9,12 +9,12 @@ aliases:
 status: Done
 system: "[[../../Cards/Call of Cthulhu 7ed]]"
 relatedTo:
-  - "[Instituto Wolfliore](<../groups-organizations/Instituto Wolfliore.md>)"
+  - "[Instituto Wolfliore](<../../../RPG/groups-organizations/Instituto Wolfliore.md>)"
 Bithday: 2004
 Death:
 last_location: Brasil (base operacional), viagens frequentes ao Canadá e países com legalização
 type: character
-organization: "[Instituto Wolfliore](<../groups-organizations/Instituto Wolfliore.md>)"
+organization: "[Instituto Wolfliore](<../../../RPG/groups-organizations/Instituto Wolfliore.md>)"
 profission: Observadora (Monitoramento de Fenômenos Sobrenaturais)
 condition: Active
 isPlayer: false
@@ -68,7 +68,7 @@ As **"Gêmeas do Sol e da Lua"** — como Charlie carinhosamente chama suas filh
 
 ---
 
-### **Luna Solange MacAllister** (12 Anos, Pele morena)
+### **Luna Solange MacAllister** (12 Anos, Pele Morena)
 
 ![luna | 200](https://i.pinimg.com/474x/a4/ba/3e/a4ba3e33694125415c2edb68c668adcc.jpg)
 
@@ -82,7 +82,7 @@ Luna tem tranças castanhas , trançados com linhas de lã coloridas. Seus olhos
 
 ---
 
-### **Sunny Élodie MacAllister** (10 Anos, Pele clara)
+### **Sunny Élodie MacAllister** (10 Anos, Pele Clara)
 
 ![sunnye | 200](https://i.pinimg.com/474x/57/42/c8/5742c86dd3bde0f3771069a5e0005d08.jpg)
 

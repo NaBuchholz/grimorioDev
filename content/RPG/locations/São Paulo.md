@@ -1,9 +1,10 @@
 ---
 aliases:
-type: Location
+type: location
 tags:
   - public
 status: Doing
+location-type: city
 ---
 
 ## CULTURA PAULISTANA

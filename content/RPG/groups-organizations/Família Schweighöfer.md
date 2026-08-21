@@ -45,7 +45,7 @@ A exposição ao cristal durante um estado de transe profundo alterou fundamenta
 - **Feito Notável:** Criou o **Jardim das Cinco Estações Emocionais**, um espaço terapêutico onde plantas específicas, cristais e arquitetura são combinados para criar ambientes que naturalmente induzem estados emocionais curativos sem manipulação direta.
 - **Posição Atual:** Diretora do Sanatório Schweighöfer reformulado, agora funcionando como centro de tratamento para praticantes de magia que sofrem de distúrbios empáticos e vítimas de manipulação emocional sobrenatural.
 
-### **5ª Geração: [Rachael Clarie Caltraine Schweighöfer](<../characters/Rachael Clarie Caltraine Schweighöfer.md>) (1990-Presente)**
+### **5ª Geração: [Rachael Clarie Caltraine Schweighöfer](<../../04-RPG/Worlds/Kosmos/Rachael Clarie Caltraine Schweighöfer.md>) (1990-Presente)**
 
 - **Filha de Margarethe:** Rachael, agora com 42 anos, representa a geração mais controversa da família. Enquanto era esperado que seguisse a abordagem terapêutica tradicional, desenvolveu interesse nas aplicações mais agressivas e ilusórias da magia rosa.
 - **Feito Notável:** Criou as **Lâminas de Dissonância**, cristais de quartzo rosa modificados que podem ser usados para _amplificar_ emoções negativas em alvos específicos, causando colapsos emocionais controlados em entidades hostis ou cultistas. Também desenvolveu técnicas para projetar ilusões emocionais - fazendo alvos verem, ouvirem e sentirem coisas que não existem ao manipular seus estados afetivos.Também expandiu a teoria ilusória da família, documentando como diferentes estados emocionais criam vulnerabilidades a ilusões específicas.

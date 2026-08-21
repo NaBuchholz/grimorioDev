@@ -74,7 +74,7 @@ O objetivo não é competir por informação. É permitir que os personagens ten
 
 O Espaço Entre foi planejada como uma **campanha longa**, com horizonte superior a quarenta sessões e bastante espaço para crescer conforme as decisões dos jogadores. Não existe intenção de chegar rapidamente a uma sequência predeterminada de revelações. Algumas respostas podem levar bastante tempo para aparecer porque, nesse tipo de horror, entender gradualmente que acontecimentos aparentemente separados possuem alguma relação costuma ser mais importante do que receber uma grande explicação de uma vez.
 
-Como padrão de planejamento, as **sessões coletivas duram aproximadamente entre **quatro horas e meia** e **cinco horas**, enquanto sessões individuais ou em dupla costumam ser menores, normalmente entre **uma hora e meia e duas horas**, dependendo do que estiver acontecendo. Um acontecimento não precisa começar e terminar dentro da mesma sessão; relações e investigações podem permanecer abertas durante semanas ou meses de jogo.
+Como padrão de planejamento, as sessões coletivas duram aproximadamente entre **quatro horas e meia** e **cinco horas**, enquanto sessões individuais ou em dupla costumam ser menores, normalmente entre **uma hora e meia e duas horas**, dependendo do que estiver acontecendo. Um acontecimento não precisa começar e terminar dentro da mesma sessão; relações e investigações podem permanecer abertas durante semanas ou meses de jogo.
 
 A campanha também não mede seu avanço apenas pelo número de sessões. Dentro da ficção, o tempo realmente passa. Os personagens envelhecem, calendários avançam, semestres terminam, aniversários chegam e o mundo continua existindo entre uma investigação e outra.
 
@@ -164,7 +164,7 @@ Ela se parece mais com uma **teia**.
 
 Existem vários lugares de onde uma descoberta pode surgir, pessoas diferentes podem conhecer partes distintas da verdade e perder uma pista não deveria impedir a campanha de continuar. Os personagens podem chegar muito cedo a algo que eu imaginava que apareceria tarde, ignorar completamente um caminho preparado ou transformar algum pequeno NPC em uma das pessoas mais importantes de toda a campanha.
 
-Eu preparo bastante, talvés seja uma falha de caratér minha, admito... mas ainda adoro construir mundos.
+Eu preparo bastante, talvez seja uma falha de caráter minha, admito... mas ainda adoro construir mundos.
 
 Só não preparo aquilo que vocês vão escolher fazer com o que encontrarem.
 

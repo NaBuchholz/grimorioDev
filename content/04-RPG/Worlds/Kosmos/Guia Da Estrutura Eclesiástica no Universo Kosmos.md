@@ -6,7 +6,7 @@ tags:
   - rpg/2032
   - rpg/Kosmos/SS
   - public
-status: Doing
+status: Done
 relatedTo:
   - "[[../../../RPG/groups-organizations/Societas Sancti|SS]]"
 ---

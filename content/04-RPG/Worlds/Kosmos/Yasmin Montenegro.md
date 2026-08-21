@@ -12,7 +12,7 @@ system:
 relatedTo:
 Bithday: 2005-03-02
 Death:
-last_location: "[São Paulo](<../locations/São Paulo.md>)"
+last_location: "[São Paulo](<../../../RPG/locations/São Paulo.md>)"
 organization:
 profission: Criadora de conteúdo
 condition: Active
@@ -26,7 +26,7 @@ isPlayer:
 
 ## **Descrição Física De Yasmin "Yas Dourado" Montenegro**
 
-![yas | 300](<../../_attachments/Yasmin Montenegro/20260208_20260208_yas-montenegro.jpg>)
+![yas | 300](<../../../_attachments/Yasmin Montenegro/20260821_20260208_20260208_yas-montenegro.jpg>)
 
 Yasmin é **uma presença impossível de ignorar**. Sua pele negra brilha sob as luzes dos holofotes, ressaltando a elegância e a intensidade do seu olhar. Seus **olhos verdes vibrantes**, quase hipnóticos, transmitem tanto mistério quanto confiança—um convite e um desafio ao mesmo tempo.
 

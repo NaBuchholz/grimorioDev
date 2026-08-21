@@ -12,12 +12,12 @@ system:
   - Call of Cthulhu 7th Edition
 relatedTo:
 Bithday:
-Death:
+Death: 2019-11-09
 last_location: "[São Paulo](<../RPG/locations/São Paulo.md>)"
 type: character
 organization: SA
 profission: Médico Pediatra
-condition: Inactive
+condition: Dead
 isPlayer: true
 ---
 
@@ -54,11 +54,8 @@ Naquele momento, entrando de fininho no prédio para não ser vista, uma coisa e
 Poucos passos a separavam de uma boa noite de sono sem que toda a sua autoestima e imagem fossem destruídas, mais dois andares. . . Qual é !!!??? - o elevador parou -  Ninguém sai de casa esta hora da noite (pensei) … As porta abrem-se, com a respiração paralisada olho fixamente a porta se abrindo, e, diante dela ninguém menos que Dna Helena, a síndica e informante oficial de todas as fofoqueiras num raio de quilômetros,  principalmente agora que as distintas senhoras encontram-se munidas de Whatsapp. Ela olhou-me de cima a baixo, se fosse para ganhar um prêmio eu julgaria que ela a havia tentado farejar alguma coisa, como um daqueles cães da polícia treinados para encontrar drogas, bombas e desaparecidos.  
 
 - Bom dia Laura! O sorriso amarelado pelo cigarro e um olhar perscrutador me incomodava demasiadamente. Em pensamentos rezei algumas Ave Marias, para que o elevador fosse mais rápido, por pouco não rezei para que o Sr. Scoot  e seu teleporte da USS Enterprise. Dna Helena nunca me perdoou pela reprovação de todas as suas obras no comitê do condomínio, o motivo era real, eram caras demais, mas Dna Helena pouco se importava. Acho que chega uma hora que só a vingança importa... 
-	
 - Bom dia Dna Helena, tudo bem? O hiato na resposta gelou meus ossos, o que será que estava passando na cabeça da anciã linguaruda, enfim seu andar chegou. A salvação estava a poucos instantes … nenhum comentário é melhor do que algo sarcástico que me perseguiria por meses dos corredores do prédio à dona do bistrot que amava tomar café aos domingos pela manhã. Uffa! As portas se abrem, nenhum comentário.
-	
 - Até outra hora Dna Helena, um bom final de semana. O hiato na resposta permaneceu enquanto o bipe sinalizava que as portas estavam fechando, e, para seu horror absoluto a resposta vinda de um largo e malicioso sorriso, a resposta saiu por entre os dentes amarelos.
-	
 - Boa noite Agente Dana Scully!
 	
 
@@ -591,9 +588,7 @@ Eu tentarei executar um ritual de um livro que tenho lido, com a intenção de p
 Tenho três sugestões para resolver o problema das estátuas, duas envolvem devolver à ela a energia que está emanando, usando-a contra ela e transformando-a novamente em pedra “inativa”.
 
 - A primeira consiste em colocar uma lágrima de pedra que retirei (um pequeno grão), dos olhos do amigo afetado e colocando no vão dos olhos do anjo.
-	
 - A segunda é colocar espelhos em volta da estátua, de forma que ela se veja refletida e a energia volte para ela mesma.
-	
 - A terceira, e mais arriscada, é destruir as estátuas. Mas temo que isso venha a libertar os Anjos caídos que Lorenzini conseguiu prender com sucesso.
 	
 
@@ -814,13 +809,9 @@ João acorda, ainda aturdido com o que havia lhe acontecido, conseguia sentir as
 O homenzarrão fita mulher, e, seus olhos arregalam-se quando a reconhece, confuso, se desespera.
 
 - Eu, eu, quanto tempo, meu Deus, minha filha . . .
-	
 - Calma, responde a mulher, só passaram algumas horas para você, tudo vai ficar bem.
-	
 - Mas você, você envelheceu, como, como isso aconteceu? O homem balbucia tentando compreender.
-	
 - Não tenho muito tempo João, preciso lhe pedir um grande favor, algo similar ao que você havia pedido antes do ritual, lembra-se ?
-	
 - João a encara, o olhar confuso é substituído por um olhar de tristeza e compreensão.
 	
 

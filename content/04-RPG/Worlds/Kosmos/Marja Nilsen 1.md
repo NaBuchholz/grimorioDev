@@ -9,7 +9,7 @@ system:
 relatedTo:
 Bithday: 2000-07-20
 Death:
-last_location: "[Finlândia](<../locations/Finlândia.md>)"
+last_location: "[Finlândia](<../../../RPG/locations/Finlândia.md>)"
 type: character
 organization:
 profission: Criadora de conteúdo
@@ -19,7 +19,7 @@ isPlayer:
 
 ## Descrição Física Para Os Jogadores
 
-![Maja | 300](<../../_attachments/Marja Nilsen/20260816_20260208_20260208_Maja.jpeg>)
+![Maja | 300](<../../../_attachments/Marja Nilsen 1/20260821_20260816_20260208_20260208_Maja.jpeg>)
 
 ## Histórico (Background)
 

@@ -201,7 +201,7 @@ Ruby é caos puro. Deixa tudo jogado pela casa, não organiza notas e relatório
 
 ...
 
-### [Rachael Clarie Caltraine Schweighöfer](<./Rachael Clarie Caltraine Schweighöfer.md>) (Irmã)
+### [Rachael Clarie Caltraine Schweighöfer](<../../04-RPG/Worlds/Kosmos/Rachael Clarie Caltraine Schweighöfer.md>) (Irmã)
 
 ...
 

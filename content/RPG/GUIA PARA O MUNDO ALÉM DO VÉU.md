@@ -12,121 +12,89 @@ status: Doing
 
 Bem-vindo ao mundo das sombras que se escondem entre a realidade que conhecemos.
 
-Este manual foi preparado para auxiliar novos investigadores a compreenderem os eventos, organizações e fenômenos que moldaram nosso mundo desde o fatídico ano de 2020. Aqui você encontrará informações essenciais para sobreviver e, quem sabe, desvendar os mistérios do que chamamos **Além-Véu**.
+Este manual foi preparado para auxiliar novos investigadores a compreender os eventos, organizações e fenômenos que moldaram o mundo desde o início de 2020. Aqui estão reunidas informações essenciais para reconhecer os sinais do que convencionamos chamar de **Além-Véu**, compreender algumas das forças que disputam seu estudo e, com alguma sorte, sobreviver ao contato com aquilo que existe do outro lado.
 
-É importante ressaltar que tudo que você está prestes a ler é **CONFIDENCIAL**. O mundo ordinário continua sua rotina, ignorando os horrores e maravilhas que existem nas bordas da realidade. Para a maioria das pessoas, os eventos descritos neste manual são apenas teorias da conspiração, anomalias atmosféricas ou histeria coletiva. E talvez seja melhor assim.
+Tudo o que você está prestes a ler deve ser tratado como **CONFIDENCIAL**. O mundo ordinário continua funcionando porque a maior parte da humanidade ainda consegue interpretar o inexplicável como coincidência, fraude, fanatismo, doença, desastre natural ou erro humano. Governos, instituições e organizações ocultistas também contribuíram para manter esse equilíbrio, embora nem sempre pelas mesmas razões. Para quase todos, o sobrenatural permanece uma coleção desconexa de teorias da conspiração, fenômenos atmosféricos, crimes incomuns e histórias que parecem absurdas demais para serem verdadeiras.
 
-Você foi escolhido ou, talvez, tenha tropeçado em conhecimentos que não deveria ter. De qualquer forma, agora não há volta. Seja bem-vindo ao mundo que existe nas sombras do nosso.
+Você foi escolhido ou, talvez, apenas tenha tropeçado em conhecimentos que não deveria possuir. Em qualquer dos casos, depois de aprender a reconhecer o Véu, torna-se muito difícil voltar a acreditar que ele é uma parede.
 
 ---
 
 ## O MUNDO
 
-O mundo se parece muito com o que conhecíamos há uma década atrás. As pessoas continuam suas vidas, a tecnologia avança gradualmente, e as preocupações cotidianas permanecem as mesmas. No entanto, para os poucos que sabem olhar além do véu da realidade, o mundo nunca mais foi o mesmo após os eventos de 2020.
+O mundo de 2033 ainda se parece, à primeira vista, com o mundo que existia antes do Incidente de 2020. A tecnologia avançou, governos mudaram, crises nasceram e desapareceram, e a maior parte da humanidade seguiu vivendo sem jamais presenciar algo que não pudesse racionalizar. Para aqueles que conhecem o Além-Véu, porém, os últimos treze anos deixaram uma diferença impossível de ignorar: a realidade tornou-se ligeiramente mais permeável ao Mythos.
 
-A maioria da população desconhece a verdadeira natureza do que ocorreu ou foi condicionada a acreditar em explicações racionais e científicas para eventos que desafiam toda lógica. A humanidade, como um mecanismo de defesa coletivo, escolhe ignorar os sinais do sobrenatural que ocasionalmente vazam para nosso mundo.
+As organizações capazes de medir esse fenômeno não concordam sobre sua causa exata, sua escala futura ou sequer sobre a melhor maneira de descrevê-lo. Ainda assim, existe hoje um consenso operacional de que o mundo se encontra em aproximadamente **3% de Mythos**, uma condição diretamente associada às consequências do **Minuto Carmesim**. A cifra parece pequena, mas foi suficiente para ampliar a frequência de anomalias, facilitar a formação de pequenos cultos, tornar certos rituais mais responsivos e produzir uma geração maior de pessoas que tiveram algum tipo de contato indireto com o Além-Véu.
 
-O ano é XXXX mas as cicatrizes deixadas pelo **Minuto Carmesim** de 2020 ainda estão frescas para aqueles que sabem onde procurar.
+Isso não tornou o sobrenatural público. Ao contrário, a humanidade continua extraordinariamente capaz de acomodar o impossível dentro de explicações aceitáveis. Um desaparecimento pode virar crime sem solução, uma manifestação pode ser registrada como falha elétrica, uma criatura pode sobreviver na memória coletiva como montagem digital e um ritual pode ser confundido com violência sectária. O Véu não depende apenas de magia; ele também se sustenta pela incapacidade humana de reunir acontecimentos dispersos em uma única verdade.
 
 ---
 
 ## EVENTOS SIGNIFICATIVOS
 
-### O MINUTO CARMESIM (2020)
+### O [[MINUTO CARMESIM]] — 7 DE MARÇO DE 2020
 
-No fatídico dia do Minuto Carmesim, o mundo testemunhou um dos mais perturbadores eventos da história moderna. Durante exatos 60 segundos, o céu adquiriu um tom vermelho profundo e pulsante em várias partes do mundo, como se o próprio firmamento estivesse sangrando. Este fenômeno foi acompanhado por um silêncio absoluto e antinatural – nenhum som natural ou artificial foi registrado durante esse breve, mas eterno, minuto.
+Na noite de **7 de março de 2020**, um sábado, o mundo presenciou um dos eventos mais perturbadores da história moderna. Durante exatos sessenta segundos, o céu adquiriu um tom vermelho profundo e pulsante em diferentes regiões do planeta, como se o próprio firmamento estivesse sangrando. O fenômeno foi acompanhado por um silêncio absoluto e antinatural: durante aquele minuto, testemunhas afirmaram não ouvir motores, animais, vento, vozes ou qualquer outra fonte de som que deveria estar presente ao seu redor.
 
-As consequências foram devastadoras: mais de 200.000 pessoas tiraram suas próprias vidas simultaneamente durante ou logo após o evento. Muitas deixaram mensagens perturbadoras como "As estrelas já sabem", "Ele ainda nos vê" e "Não é um sonho, é um chamado".
+A data foi especialmente cruel. O mundo já acompanhava com preocupação a disseminação de uma nova doença respiratória e começava a perceber que a crise sanitária não permaneceria localizada, mas as grandes quarentenas e restrições que marcariam os meses seguintes ainda não haviam tomado conta da rotina global. O Minuto Carmesim aconteceu exatamente nesse intervalo, quando populações inteiras estavam apreensivas, governos ainda tentavam compreender o que estava por vir e a atenção pública começava a se voltar quase integralmente para a pandemia.
 
-#### O QUE A POPULAÇÃO SABE
+Nas horas seguintes ao fenômeno, mais de duzentas mil mortes por suicídio foram registradas em diferentes países. Muitas vítimas deixaram mensagens breves e desconexas, entre elas frases como **“As estrelas já sabem”**, **“Ele ainda nos vê”** e **“Não é um sonho, é um chamado”**. Pessoas que sobreviveram à exposição relataram náusea, desorientação, ataques de pânico, alucinações momentâneas e uma sensação persistente de terem sido observadas por algo vasto demais para ser compreendido.
 
-Para o público geral, o Minuto Carmesim é explicado como uma rara anomalia atmosférica que coincidiu com um surto de histeria coletiva. Cientistas atribuem as mortes a um efeito psicológico de massa, possivelmente exacerbado pelo fenômeno visual e por condições neurológicas pré-existentes. As autoridades enfatizam a necessidade de uma abordagem racional e científica para evitar teorias conspiratórias.
+Para a sociedade comum, o Minuto Carmesim permanece classificado como uma anomalia atmosférica rara acompanhada por um episódio sem precedentes de pânico coletivo. O caos informacional dos primeiros meses da pandemia ajudou essa explicação a se consolidar. Nas semanas seguintes, as notícias sobre o fenômeno foram progressivamente soterradas por hospitais, fronteiras, medidas sanitárias, colapso econômico e quarentenas. As duas crises tornaram-se contemporâneas na memória coletiva, embora nenhuma investigação pública tenha demonstrado uma relação causal entre elas.
 
-#### A VERDADE
+A verdade conhecida pelas principais organizações ocultistas é diferente. O [[Minuto Carmesim]] foi o evento final do **Incidente de 2020**, ocorrido após o contra-ritual conduzido pela então ativa **Sociedade Arkan** contra o **Culto Chaos**, com a participação de **[[Selena Cagliore]]**, **[[Joachim Casters Wolf]]** e **[[Edgard Theodoro da Fonseca]]**. O contra-ritual impediu uma catástrofe maior, mas, por um único minuto, o Véu tornou-se perigosamente fino e permitiu que algo ligado ao Mythos tocasse a consciência humana em escala global.
 
-O Minuto Carmesim foi o evento final do **Incidente de 2020**, ocorrido após um contra-ritual realizado pela então ativa **Sociedade Arkan** contra o **Culto Chaos**. Este ritual contou com a ajuda de Selena Cagliore, Joaquim Casters Wolf e Edgard Theodoro da Fonseca. Foi um momento em que o véu entre nossa realidade e o Além-Véu se tornou perigosamente fino, permitindo que a consciência de uma entidade cósmica tocasse brevemente as mentes humanas.
-
-Os suicídios em massa não foram coincidência – foram o resultado direto do contato com algo incompreensível para a mente humana. As vítimas não escolheram morrer; suas mentes simplesmente não puderam processar o que experimentaram.
-
-No rescaldo, pequenos cultos surgiram por todo o mundo, com muitos acreditando que o Minuto Carmesim foi apenas o prelúdio de algo maior por vir.
+As vítimas não foram simplesmente pessoas que testemunharam um céu incomum. Elas foram expostas, ainda que por instantes, a uma percepção que a mente humana não foi construída para acomodar. O mesmo evento deixou uma cicatriz mais duradoura na realidade. É a partir desse momento que os registros ocultistas passam a reconhecer o atual índice de aproximadamente **3% de Mythos**, e é também depois dele que pequenos cultos, manifestações espontâneas, anomalias locais e indivíduos sensibilizados pelo Além-Véu começam a aparecer com frequência maior em diferentes partes do mundo.
 
 ---
 
 ## ORGANIZAÇÕES QUE LIDAM COM O ALÉM-VÉU
 
-### FUNDAÇÃO BEATRIZ COSTA (FBC)
+Nenhuma organização detém controle completo sobre o mundo oculto. O colapso de estruturas antigas, as consequências do Minuto Carmesim e o aumento gradual da presença do Mythos produziram um cenário fragmentado, no qual instituições com filosofias incompatíveis às vezes precisam colaborar simplesmente porque nenhuma delas é grande o bastante para lidar sozinha com tudo o que passou a existir.
 
-A **Fundação Beatriz Costa** é uma organização governamental brasileira fundada em 2021, sob a gestão do **Dr. Henry Allan Lopes**. Diferente de outras entidades que lidam com o sobrenatural, a FBC é o único braço oficial do Estado brasileiro dedicado exclusivamente aos impactos médicos, psicológicos e sociais da exposição ao Além-Véu na população.
+### FUNDAÇÃO BEATRIZ COSTA — FBC
 
-#### MISSÃO E FILOSOFIA
+A **[[Fundação Beatriz Costa]]** é uma organização governamental brasileira fundada em 2021, sob a gestão do **[[Dr. Henry Allan Lopes]]**. Diferente das sociedades ocultistas tradicionais, sua atuação está concentrada nos impactos médicos, psicológicos e sociais da exposição ao Além-Véu. A Fundação surgiu em um período no qual o Estado brasileiro já precisava lidar com pessoas apresentando traumas, alterações físicas e quadros psicológicos que não se encaixavam inteiramente nos modelos clínicos disponíveis.
 
-A FBC opera sob três pilares fundamentais:
+Sua filosofia pode ser resumida em três compromissos: cuidado humanizado, pesquisa científica responsável e comunicação pública controlada. A FBC não trata magia como solução e prefere compreender seus efeitos como fenômenos que podem ser observados, documentados e, quando possível, tratados. Seus hospitais, centros de pesquisa e unidades de contenção recebem tanto vítimas involuntárias quanto praticantes feridos por rituais e contatos malsucedidos com o Além-Véu.
 
-- **Cuidado Humanizado**: Tratamento físico e mental dos cidadãos afetados pelo Além-Véu
-- **Pesquisa Científica Responsável**: Estudo ético dos efeitos sobrenaturais em humanos
-- **Transparência e Informação**: Manter a população informada sobre riscos e medidas preventivas
-
-O lema da organização resume bem sua abordagem: **"Cuidar, curar, informar."**
-
-#### ESTRUTURA
-
-A FBC é dividida em quatro diretorias principais:
-
-1. **Diretoria de Atendimento Médico e Psicológico (DAMP)**: Tratamento direto de pacientes
-2. **Diretoria de Pesquisa e Desenvolvimento (DPD)**: Estudo dos efeitos e desenvolvimento de tratamentos
-3. **Diretoria de Segurança e Contenção (DSC)**: Proteção das instalações e contenção de pacientes perigosos
-4. **Diretoria de Comunicação e Transparência (DCT)**: Comunicação pública e campanhas educativas
-
-#### INSTALAÇÕES
-
-- **Hospital Beatriz Costa (HBC)** em São Paulo
-- **Centro de Pesquisa e Reabilitação (CPR)** em Brasília
-- **Unidades de Contenção Segura (UCS)** em locais remotos
-
-A FBC se destaca por seu compromisso com a transparência, acreditando que a informação é essencial para proteger a sociedade dos perigos do Além-Véu.
+A Fundação se tornou importante justamente por ocupar um espaço que outras organizações negligenciam. Enquanto sociedades secretas discutem artefatos, entidades e rituais, a FBC costuma receber as pessoas que permanecem quando a operação termina.
 
 ### INSTITUTO WOLFLIORE
 
-O **Instituto Wolfliore** é uma instituição secreta localizada em algum lugar do Pacífico que detém aproximadamente 35% do acervo mundial de feitiços, rituais e conhecimentos sobre criaturas sobrenaturais. Comandado pela renomada ocultista **Selena Cagliore**, o instituto serve como refúgio para jovens ocultistas renegados e abriga uma ampla variedade de criaturas sobrenaturais em instalações personalizadas.
+O **Instituto Wolfliore** é uma instituição secreta localizada em algum lugar do Pacífico, fundada por **Selena Cagliore** e **Joachim Casters Wolf** durante a reorganização do mundo oculto que se seguiu ao colapso da antiga Sociedade Arkan. O nome da instituição preserva a marca de Joachim e da linhagem Wolf em sua própria identidade. Atualmente, sua administração é dividida entre **Selena Cagliore** e **Matthias Savoia Wolf**, filho de Joachim.
 
-#### FILOSOFIA
+Seu acervo representa cerca de 35% do conhecimento catalogado sobre feitiços, rituais e criaturas sobrenaturais conhecido por sua rede, além de funcionar como refúgio para jovens ocultistas renegados e para entidades que não podem simplesmente ser devolvidas ao mundo ou destruídas sem consequências.
 
-O Instituto acredita que o Além-Véu e suas manifestações não são inerentemente boas ou más, mas forças além da compreensão humana que devem ser estudadas e, quando possível, compreendidas. Seu lema **"A luz através da escuridão"** reflete a crença de que o conhecimento é o caminho para superar o medo do desconhecido.
+O Instituto herdou parte dos problemas que a Arkan tentou resolver, mas não sua filosofia. A Wolfliore trabalha a partir da ideia de que o Além-Véu não pode ser reduzido a uma divisão simples entre bem e mal. Fenômenos devem ser observados antes da intervenção, entidades podem exigir mediação em vez de combate e destruição é tratada como último recurso quando compreensão e contenção fracassam.
 
-#### ESTRUTUsRA
+Sua estrutura é deliberadamente adaptável. Observadores acompanham fenômenos sem intervir, Mediadores tentam estabelecer comunicação com entidades ou grupos relacionados ao oculto e Guardiões entram em ação quando uma ameaça precisa ser contida ou neutralizada. Acima dessas funções operam diretorias voltadas à aquisição de anomalias, pesquisa e contenção, desenvolvimento oculto e manutenção do sigilo. Seu lema, **“A luz através da escuridão”**, resume a convicção de que conhecimento não elimina o perigo, mas é a única forma de enfrentá-lo sem repetir os erros do passado.
 
-O Instituto opera como uma rede descentralizada de especialistas, dividida em quatro diretorias principais:
+### SOCIETAS SANCTI — SS
 
-1. **Diretoria de Busca e Aquisição de Anomalias**: Identificação e possível captura de fenômenos sobrenaturais
-2. **Diretoria de Contenção e Pesquisa**: Manutenção e estudo de anomalias de forma ética
-3. **Diretoria de Desenvolvimento Oculto**: Criação de novos feitiços e técnicas ocultas
-4. **Diretoria de Relações e Sigilo**: Manutenção do segredo e administração de relações com outras entidades
+A **Societas Sancti** é uma sociedade secreta ligada à Igreja Católica e dedicada a proteger a instituição, seus fiéis e seus ensinamentos diante de ameaças do Além-Véu. Sua existência é conhecida apenas por uma parcela muito restrita da hierarquia eclesiástica, e boa parte de sua linguagem interna interpreta fenômenos do Mythos através de uma cosmologia cristã, frequentemente tratando entidades hostis como manifestações demoníacas ou corrupções espirituais.
 
-Além disso, o Instituto possui três ramos operacionais especializados:
+Seus agentes de campo são conhecidos como **Cains**, indivíduos treinados para investigações, exorcismos e combate a ameaças sobrenaturais, muitos dos quais afirmam receber poderes concedidos pelos arcanjos. Acima deles estão as **Liliths**, cargos ocupados exclusivamente por mulheres e responsáveis por liderança, inteligência, infiltração, diplomacia e coordenação de operações. No topo da organização encontra-se **Eva**, a grão-mestra cuja autoridade responde diretamente ao Papa e cuja verdadeira natureza é conhecida por pouquíssimos membros da própria Societas Sancti.
 
-- **Observadores**: Especialistas em monitoramento não-interventivo
-- **Mediadores**: Comunicadores treinados para interagir com entidades do Além-Véu
-- **Guardiões**: Responsáveis pela contenção e, se necessário, neutralização de ameaças
+A organização se define como uma luz contra aquilo que considera a escuridão do Mythos, mas suas certezas teológicas também são uma de suas maiores vulnerabilidades. Quanto mais seus membros aprendem sobre o Além-Véu, mais difícil se torna distinguir revelação, interpretação e contaminação.
 
-O Instituto Wolfliore surgiu após o colapso da antiga **Sociedade Arkan**, representando uma abordagem mais equilibrada e adaptativa ao sobrenatural, baseada em compreensão prioritária, contenção estratégica e intervenção gradual.
+### ORDEM MÍSTICA EUROPEIA — OME
 
-### SOCIETAS SANCTI (SS)
+A **[[Ordem Mística Europeia]]**, ou **OME**, é uma das organizações ocultistas mais antigas ainda reconhecíveis no mundo contemporâneo, embora dizer que ela ainda exista da mesma maneira que antes de 2020 seja impreciso. Sua origem remonta ao século XV, quando foi fundada como **Ordem do Espírito Santo**, uma sociedade matriarcal dedicada a proteger a humanidade do conhecimento místico e oculto que considerava perigoso demais para circular livremente.
 
-A **Societas Sancti** é uma sociedade secreta vinculada à Igreja Católica, dedicada a proteger a instituição e seus fiéis enquanto lida com ameaças do Além-Véu. Sua existência é conhecida apenas por alguns poucos dentro da hierarquia eclesiástica.
+Durante o século XVII, a Ordem rompeu sua ligação com a Igreja após ser renegada pelo papa **Urbano VIII**. A partir desse momento adotou o nome Ordem Mística Europeia e construiu sua identidade em torno do estudo cuidadoso do Mythos, da preservação seletiva de textos proibidos e da convicção de que a sobrevivência humana deve sempre ter prioridade sobre a preservação do conhecimento. A OME nunca acreditou que todo segredo merecesse ser salvo. Quando um texto, ritual, criatura ou descoberta era considerado capaz de produzir mais dano do que compreensão, a destruição era uma resposta aceitável.
 
-#### ESTRUTURA HIERÁRQUICA
+Ao longo dos séculos, a Ordem também se tornou conhecida pelo uso de linguagens, criptografia arcana, símbolos e sistemas de catalogação capazes de ocultar conhecimento até mesmo de outros ocultistas. Seus arquivos eram simultaneamente bibliotecas e prisões: lugares construídos não apenas para guardar informações, mas para impedir que certas ideias encontrassem leitores.
 
-1. **Cains**: Agentes de campo que recebem poderes dos arcanjos para combater ameaças ocultas. São treinados para exorcismos, caçadas a monstros e investigações sobrenaturais.
-2. **Liliths**: Posições de alto escalão ocupadas exclusivamente por mulheres. Não possuem poderes mágicos como os Cains, mas são altamente habilidosas em coleta de informações, infiltração e diplomacia. Atuam como líderes e coordenadoras das operações.
-3. **Eva**: A misteriosa líder suprema da SS, que responde apenas ao Papa. Envolta em lendas sobre suas habilidades sobrenaturais, é a autoridade final dentro da organização.
-	
+O **Minuto Carmesim** praticamente encerrou essa versão da OME. As perdas sofridas durante e imediatamente depois do Incidente de 2020, somadas à necessidade de reformular métodos que haviam funcionado por séculos, reduziram a organização a uma fração de sua antiga capacidade. A OME atual é melhor compreendida como um conjunto descontínuo de sobreviventes, arquivos, pequenos núcleos e tradições herdadas do que como uma sociedade secreta internacional plenamente funcional. Seu nome ainda carrega peso entre ocultistas antigos, mas sua presença concreta no mundo é rara, irregular e frequentemente difícil de distinguir de pessoas ou grupos que apenas herdaram partes do que a Ordem um dia foi.
 
-#### DOGMAS
+### IGREJA DA ALÉM-CIÊNCIA
 
-1. "Nós devemos proteger a Igreja e os fiéis dos perigos do mito." (2 Coríntios 11:14)
-2. "Nós devemos obedecer aos comandos do Papa como se fossem os comandos de Deus." (Hebreus 13:17)
-3. "Nós devemos ser guiados pela sabedoria dos arcanjos." (Tiago 3:17)
-4. "Nós devemos ser uma luz na escuridão e um escudo contra o mal." (Salmo 27:1)
+A **Igreja da Além-Ciência** é uma das presenças mais difíceis de compreender entre as organizações que passaram a circular com maior nitidez depois do **Minuto Carmesim**. Embora sua existência remonte a **1950**, ela permaneceu praticamente invisível durante décadas e somente em 2020 deixou de operar de forma inteiramente subterrânea. Mesmo desde então, chamar isso de uma abertura seria exagero: a Igreja continua profundamente fechada e demonstra pouco interesse em permitir que pessoas de fora observem sua vida interna.
+
+O pouco que se conhece indica uma tradição que tenta aproximar **ciência moderna, práticas religiosas e estudo do Além-Véu**. Elementos do paganismo, da Wicca e da filosofia budista aparecem misturados a investigação de anomalias, meditação, rituais e outras formas de contato controlado com aquilo que seus membros consideram forças anteriores ou exteriores à compreensão humana comum. Para a Igreja, compreender o desconhecido não parece significar apenas protegê-lo ou contê-lo; há também uma busca deliberada por conhecimento e por formas de poder que outras organizações considerariam perigosas demais para perseguir.
+
+Isso, porém, é quase tudo que um investigador externo pode afirmar com segurança. A Igreja se organiza através de **células muito fechadas**, muitas delas instaladas em comunidades onde visitantes não circulam livremente e novos integrantes dependem de aprovação interna. Informações sobre sua liderança, seus rituais mais importantes e a extensão real de sua presença internacional raramente deixam esses círculos. Outras organizações sabem que ela existe e reconhecem que sua atividade se tornou mais visível depois de 2020, mas tentativas de observá-la de perto encontram uma cultura de sigilo que não se parece com a discrição burocrática da Wolfliore ou com o segredo institucional da Societas Sancti. Na Além-Ciência, o isolamento faz parte da própria prática.
 
 ---
 
@@ -134,80 +102,48 @@ A **Societas Sancti** é uma sociedade secreta vinculada à Igreja Católica, de
 
 ### O ALÉM-VÉU
 
-O termo **Além-Véu** refere-se ao conjunto de dimensões, entidades e fenômenos que existem além da percepção humana normal. É uma realidade paralela e entrelaçada com a nossa, geralmente inacessível exceto em circunstâncias específicas ou para pessoas com sensibilidade especial.
+O termo **Além-Véu** não descreve um único lugar. Ele é usado para falar do conjunto de dimensões, entidades, forças e fenômenos que existem fora da percepção humana ordinária, mas que permanecem entrelaçados com a realidade física. Em alguns casos, o contato acontece por meio de locais, sonhos ou objetos; em outros, através de rituais, linhagens, estados alterados de consciência ou simplesmente pelo azar de estar presente quando o Véu se torna fino demais.
 
-A exposição ao Além-Véu pode causar efeitos devastadores na mente e no corpo humanos, desde distúrbios psicológicos até mutações físicas. Os casos mais graves geralmente terminam em insanidade ou morte.
+A exposição ao Além-Véu pode afetar mente e corpo. Os efeitos variam de desorientação, alterações perceptivas e traumas persistentes até mutações físicas, possessão, perda de identidade e morte. O perigo não está apenas em criaturas hostis. Certos conhecimentos, símbolos e percepções podem ser tão nocivos quanto uma entidade material.
 
 ### MAGIA E FEITIÇARIA
 
-A magia existe como uma força real neste mundo, embora seja raramente compreendida mesmo por aqueles que a praticam. Diferentes tradições abordam a magia de maneiras distintas, mas todas envolvem a manipulação de energias que transcendem as leis naturais conhecidas pela ciência convencional.
+A magia é real, mas não constitui uma ciência unificada. Diferentes tradições aprenderam a manipular forças que atravessam o Véu por métodos próprios, e muitas delas chegam a resultados semelhantes partindo de explicações completamente incompatíveis. Para alguns praticantes, magia é linguagem; para outros, sangue, fé, sonho, geometria, energia vital, astronomia ou disciplina corporal. Essa diversidade não significa que todas as interpretações estejam corretas. Significa apenas que o fenômeno continua existindo mesmo quando os humanos discordam sobre aquilo que estão fazendo.
 
-#### HEMOMANCIA
+O uso de magia nunca é inteiramente neutro. Feitiços podem exigir energia física, estabilidade mental, materiais raros, condições astronômicas, sacrifícios simbólicos ou exposição direta ao Mythos. Quanto maior o efeito desejado, mais perigoso costuma ser o preço de um erro.
 
-A **hemomancia**, ou magia do sangue, é uma das artes mais raras e perigosas no mundo oculto. Esta prática combina elementos de alquimia, necromancia e divinação, utilizando o sangue como meio de canalização de energia mágica e comunicação com dimensões além do véu da realidade.
+Para maiores detalhes : [Magia no Véu - Tradições Escolas e Perigos](../04-RPG/Worlds/Kosmos/Magia%20no%20Véu%20-%20Tradições%20Escolas%20e%20Perigos.md)
 
-Os perigos da hemomancia são imensos, incluindo exaustão física severa, atração de entidades hostis e eventual corrupção espiritual do praticante.
+### HEMOMANCIA
 
-#### LINHAS DE LEY
+A **hemomancia**, ou magia do sangue, é uma das artes mais raras do mundo oculto. Ela combina elementos de alquimia, necromancia e divinação, utilizando o sangue como meio de canalização de energia e comunicação com dimensões além da realidade comum. No mundo contemporâneo, sua tradição está particularmente associada à família Morozov, cuja linhagem desenvolveu métodos próprios ao longo de gerações.
 
-Acredita-se que as **linhas de Ley** sejam antigas trilhas de energia natural que formam alinhamentos místicos com a terra. Essas linhas invisíveis frequentemente atravessam locais de poder (como monumentos antigos) e emitem energia que pode ser aproveitada por praticantes de magia.
+O sangue funciona como vínculo, combustível e assinatura. É justamente essa capacidade de estabelecer conexões que torna a hemomancia tão perigosa. Um ritual pode abrir caminho para algo que o praticante não pretendia alcançar, atrair entidades interessadas no sangue utilizado ou estabelecer relações que continuam existindo muito depois de o círculo ritual ter sido desfeito.
 
-Estas linhas existem por todo o mundo, incluindo locais como Irlanda, Cuzco, Estados Unidos, Alemanha, Itália, Austrália e possivelmente São Paulo, Brasil (Enguaçu).
+Para maiores detalhes : [Hemomancia](../04-RPG/Worlds/Kosmos/Hemomancia.md)
 
-Efeitos mágicos nas linhas de Ley:
+### LINHAS DE LEY
 
-- Potencialização de feitiços de invocação
-- Abundância de energia mágica
-- Riscos de consequências mais severas
-- Proteção contra entidades dos Mythos (quando não se lança feitiços)
-- Indução de visões proféticas
-- Possíveis portais para outros lugares
+As **linhas de Ley** são descritas por várias tradições como trilhas de energia que atravessam a Terra e conectam locais de importância geográfica, histórica ou mística. Sua existência é aceita por muitas organizações ocultistas, embora a explicação para sua origem varie profundamente. Há registros de linhas relevantes na Irlanda, em Cuzco, nos Estados Unidos, na Alemanha, na Itália, na Austrália e possivelmente em São Paulo, na região associada a Enguaçu.
 
-#### CORES E SUAS ASSOCIAÇÕES MÁGICAS
+Rituais realizados sobre essas linhas podem se tornar mais poderosos, mas também menos previsíveis. Visões, deslocamentos, fenômenos de portal e alterações na manifestação de entidades são mais frequentes nesses locais. Algumas tradições consideram linhas de Ley zonas naturalmente protetoras quando não são manipuladas; outras as tratam como feridas antigas ou canais que podem ser explorados de ambos os lados do Véu.
 
-Na prática mágica, diferentes cores possuem associações e poderes específicos:
+### CORES E ASSOCIAÇÕES MÁGICAS
 
-- **Branco**: Assuntos psíquicos, afastar maus espíritos, novos começos
-- **Marrom**: Proteção, sabedoria natural, afinidade com a natureza
-- **Roxo**: Força espiritual, conexão com planos superiores
-- **Vermelho**: Força vital, poder, determinação, sorte
-- **Amarelo**: Estímulo mental, realização, aprendizado
-- **Preto**: Retribuição, comunhão com os mortos, finais e novos começos
-- **Rosa**: Amor, reconciliação, amizade, harmonia
-- **Verde**: Tranquilidade, prosperidade, fertilidade
-- **Prata**: Visões, intuição, potencial latente
-- **Laranja**: Alegria, otimismo, determinação
-- **Azul**: Espírito, cura, idealismo, proteção oculta
-- **Dourado**: Conquista, riqueza, longevidade
+Correspondências de cor aparecem em inúmeras tradições, embora não funcionem como uma linguagem universal. Branco costuma ser associado a assuntos psíquicos, afastamento de espíritos e recomeços; marrom à proteção e sabedoria natural; roxo à força espiritual; vermelho à vitalidade, poder e determinação; amarelo ao aprendizado e estímulo mental; preto à comunhão com os mortos, retribuição e encerramentos; rosa a amor, amizade e reconciliação; verde a prosperidade e fertilidade; prata a visões e intuição; laranja a alegria e determinação; azul a cura, espírito e proteção; e dourado a conquista, riqueza e longevidade. Essas associações podem alterar a forma como um ritual é construído, mas jamais substituem conhecimento, preparação ou cautela.
 
 ---
 
-## CONSELHOS PARA INVESTIGADORES
+## PARA QUEM INVESTIGA
 
-1. **A IGNORÂNCIA PODE SER UMA BENÇÃO**  
-	Nem todo conhecimento vale a pena ser obtido. Algumas verdades podem destruir sua mente. Avalie os riscos antes de se aprofundar em certos mistérios.
-	
-2. **AMIGOS SÃO A MELHOR DEFESA**  
-	No mundo do Além-Véu, aliados confiáveis podem ser a diferença entre sobrevivência e loucura. Cultive relacionamentos com outros investigadores e contatos nas organizações mencionadas.
-	
-3. **DOCUMENTE TUDO**  
-	Mantenha um diário detalhado de suas descobertas. Se algo acontecer com você, suas anotações podem ajudar outros e evitar que cometam seus mesmos erros.
-	
-4. **CETICISMO SAUDÁVEL**  
-	Questione tudo, inclusive suas próprias percepções. No mundo do Além-Véu, as aparências frequentemente enganam.
-	
-5. **PREPARE-SE PARA O PIOR**  
-	Sempre tenha um plano B... e C, e D. As entidades do Além-Véu não seguem regras humanas de lógica ou moralidade.
-	
-6. **PROTEJA SUA MENTE**  
-	Sua sanidade é seu bem mais precioso. Aprenda técnicas de autopreservação mental e reconheça quando é hora de recuar.
-	
-7. **RESPEITE AS FORÇAS OCULTAS**  
-	A magia e os rituais não são brinquedos. Abordá-los com arrogância ou ignorância quase sempre termina em tragédia.
-	
-8. **CONHECIMENTO É PODER, MAS TAMBÉM PERIGO**  
-	Quanto mais você aprende sobre o Além-Véu, mais vulnerável se torna às suas influências. Encontre equilíbrio entre buscar conhecimento e preservar sua humanidade.
+Investigar o Além-Véu exige aceitar que conhecimento e segurança raramente caminham na mesma direção. Algumas verdades não tornam uma pessoa mais preparada; apenas ampliam aquilo que pode encontrá-la. Saber recuar é uma habilidade tão importante quanto saber interpretar um ritual, e preservar a própria mente não é covardia, mas uma condição para continuar fazendo perguntas no dia seguinte.
+
+Nenhum investigador deveria trabalhar inteiramente sozinho. Relações de confiança, registros bem mantidos e contatos entre organizações podem significar a diferença entre um acontecimento isolado e uma descoberta capaz de ser compreendida. Documentar tudo continua sendo uma das formas mais simples de resistência: datas, nomes, alterações de comportamento, símbolos, sonhos e contradições que parecem irrelevantes podem se tornar essenciais quando um padrão finalmente emerge.
+
+O ceticismo também continua necessário, inclusive diante do sobrenatural. Nem todo fenômeno estranho é mágico, nem toda pessoa que afirma conhecer o Mythos diz a verdade, e entidades não são obrigadas a obedecer às categorias que humanos criaram para compreendê-las. Questionar a própria percepção é parte do trabalho. Respeitar forças ocultas não significa venerá-las; significa compreender que arrogância, improvisação e curiosidade sem limite são algumas das maneiras mais antigas de morrer neste mundo.
+
+Acima de tudo, lembre-se de que o Véu ainda existe. Apesar do Minuto Carmesim, apesar dos 3% de Mythos, apesar das organizações que fracassaram e das novas estruturas que tentam substituí-las, a maior parte da humanidade continua vivendo sem saber. Talvez isso seja uma fragilidade. Talvez seja uma forma de proteção. As pessoas que conhecem a verdade são justamente aquelas que precisam decidir, todos os dias, quanto dela o mundo pode suportar.
 
 ---
 
-_"O mais misericordioso no mundo, eu penso, é a incapacidade da mente humana em correlacionar todo o seu conteúdo."_ - H.P. Lovecraft
+_“O mais misericordioso no mundo, eu penso, é a incapacidade da mente humana em correlacionar todo o seu conteúdo.”_ — H. P. Lovecraft

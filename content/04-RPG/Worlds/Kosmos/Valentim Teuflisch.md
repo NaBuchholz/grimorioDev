@@ -8,11 +8,11 @@ tags:
 status: Done
 system: "[[../../Cards/Call of Cthulhu 7ed]]"
 relatedTo:
-  - "[[../História 5 - Biblioteca Perdida A Canção das Histórias]]"
+  - "[[../../../RPG/História 5 - Biblioteca Perdida A Canção das Histórias]]"
 Bithday:
 Death:
-last_location: "[[../locations/São Paulo]]"
-organization: "[[../groups-organizations/Instituto Wolfliore]]"
+last_location: "[[../../../RPG/locations/São Paulo]]"
+organization: "[[../../../RPG/groups-organizations/Instituto Wolfliore]]"
 profission: Parapsicologo
 condition: Active
 isPlayer: true

@@ -11,12 +11,12 @@ condition: Active
 magic: None
 age: 50
 organization:
-last_location: "[São Paulo](<../locations/São Paulo.md>)"
+last_location: "[São Paulo](<../../../RPG/locations/São Paulo.md>)"
 status: Done
 profission: Agente Secreto / Médico
 ---
 
-![300](<../../_attachments/Dr. Henry Allen Lopez/20260208_20260208_DrHenryAlle-Lopez.jpg>)
+![300](<../../../_attachments/Dr. Henry Allen Lopez/20260821_20260208_20260208_DrHenryAlle-Lopez.jpg>)
 
 ## Background
 
@@ -137,11 +137,8 @@ Recomendações: Informar as autoridades imediatamente e evitar aproximação, s
 Henry já estava passado com as informações e não conseguia parar de ler, até que, o amigo lhe respondera, não por e-mail criptografado e particular, mas por chamada de vídeo, o que não era habitual entre eles.
 
 - Henry, tudo bem? Que brincadeira é essa que você me mandou amigão ? Voltou a jogar aquele lixo de RPG ? Confundiu meu e-mail com algum de seus amigos ? - Bravejava o amigo, não havia raiva em sua voz, era apenas seu modo de ser.
-	
 - Não ! Respondeu Henry, com um sorriso amarelo para o amigo de longa data. - Conta aí, o que você descobriu.
-	
 - Cara, essa mulher é osso duro, de onde você desenterrou isso? Aquilo ali era uma Maserati 2018 ? Deve ser algum tipo de montagem ou anomalia no software, as fotos da mulher combinam com vários retratos-falados que aparecem mundo afora nos últimos 50 anos. O software confundiu com um atal de Laura Alves de Albuquerque com apenas 26 anos e que encontra-se desaparecida.
-	
 - Ah, esquece, deve ser uma anomalia mesmo ou pegadinha da galera aqui, estou voltando de férias hoje, sabe como são estes velhacos aqui. Mentiu descaradamente Henry para o amigo. 
 	
 
@@ -163,7 +160,7 @@ Muitas perguntas giravam em sua cabeça, por quê havia DNA de Amanda Allen Lope
 
 Precisava de respostas para o que aconteceu no Teatro Municipal, mas, algo em sua mente o avisava que a busca de respostas começaria em algum lugar do passado, de seu passado e a jornada haveria de começar ali, na carta sobre o baú antigo diante de si.
 
-## Mensagem De Aviso De Ausência - (e-mails Ou ligação)
+## Mensagem De Aviso De Ausência - (E-mails Ou lIgação)
 
 Olá, tudo bem ? Sei que você já percebeu que não estou disponível, porém, não perca as esperanças, eu retornarei à ligação ou e-mail assim humanamente possível. Se você ou alguém que você ama está nas últimas, lembre-se que só atendo amigos, se não é um, procure um hospital urgentemente. Se é para efetuar uma autópsia, o que é bom pois não há risco de morte, lembrando que não é pessoal, mas, retornarei a ligação assim de cuidar daqueles que ainda estão vivos . .
 

@@ -9,7 +9,7 @@ status: Done
 
 ## **O Que Foi Realmente O Minuto Carmesim?**
 
-O **Minuto Carmesim** foi o evento final do **Incidente iniciado em 2020**, ocorrido logo após o sucesso do contra-ritual da Arkan contra o Culto Chaos, com ajuda de [Selena Cagliore](Selena%20Cagliore), [Joachim Casters Wolf](<../../../RPG/characters/Joachim Casters Wolf.md>) e [Edgard Theodoro da Fonseca](<../../../RPG/characters/Edgard Theodoro da Fonseca.md>). Durante exatos **60 segundos**, o céu de várias partes do mundo adquiriu um tom vermelho profundo e pulsante, como se estivesse **sangrando**, acompanhado de um silêncio absoluto — nenhum som natural ou artificial foi registrado durante esse período. Indiretamente e secretamente [Os Morozov](<../../../RPG/groups-organizations/Os Morozov.md>) e [Os Nkosi-Sharma](<../../../RPG/groups-organizations/Os Nkosi-Sharma.md>) também ajudaram nos meses após a minuto, que foram de muitas incidências de pequenos cultos surgindo.
+O **Minuto Carmesim** foi o evento final do **Incidente iniciado em 2019**, ocorrido em 07 de Março, logo após o sucesso do contra-ritual da Arkan contra o Culto Chaos, com ajuda de [Selena Cagliore](Selena%20Cagliore), [Joachim Casters Wolf](<../../../RPG/characters/Joachim Casters Wolf.md>) e [Edgard Theodoro da Fonseca](<../../../RPG/characters/Edgard Theodoro da Fonseca.md>). Durante exatos **60 segundos**, o céu de várias partes do mundo adquiriu um tom vermelho profundo e pulsante, como se estivesse **sangrando**, acompanhado de um silêncio absoluto — nenhum som natural ou artificial foi registrado durante esse período. Indiretamente e secretamente [Os Morozov](<../../../RPG/groups-organizations/Os Morozov.md>) e [Os Nkosi-Sharma](<../../../RPG/groups-organizations/Os Nkosi-Sharma.md>) também ajudaram nos meses após a minuto, que foram de muitas incidências de pequenos cultos surgindo.
 
 Relatos indicam que aqueles expostos ao fenômeno sofreram sintomas variados, desde **náusea intensa e desorientação** até **episódios de pânico extremo e alucinações momentâneas**. Em locais de maior proximidade com a zona do ritual, houve casos documentados de **falhas tecnológicas inexplicáveis**, como relógios que congelaram no tempo e circuitos elétricos que queimaram simultaneamente. Além de que cerca de 200.000 suicídios foram regristrados.
 
@@ -23,7 +23,7 @@ Independentemente da explicação, o **Minuto Carmesim** tornou-se um dos evento
 
 ### MINUTO CARMESIM: 200 MIL MORTES EM MASSA – A HUMANIDADE FOI TOCADA PELO ABISMO
 
-📰_The Hidden Truth - 13 de junho de 2022_
+📰_The Hidden Truth - 13 de junho de 2020_
 
 No último sábado, o mundo presenciou um dos eventos mais perturbadores da história moderna. Durante o agora infame **Minuto Carmesim**, o céu se tingiu de um vermelho impossível, o silêncio tomou conta do planeta e, em apenas 60 segundos, **mais de 200.000 pessoas tiraram suas próprias vidas simultaneamente**.
 
@@ -45,7 +45,7 @@ Não podemos fechar os olhos. O Minuto Carmesim pode não ter sido **o fim**, ma
 
 ### Minuto Carmesim: Fenômeno Atmosférico Raro Coincide Com Surto De Pânico Global
 
-📰_The Global Times - 12 de junho de 2022_
+📰_The Global Times - 12 de junho de 2020_
 
 Na noite passada, o mundo testemunhou um fenômeno atmosférico peculiar, já apelidado de **Minuto Carmesim**. Durante exatos **60 segundos**, o céu adquiriu um tom vermelho intenso, seguido por relatos isolados de falhas tecnológicas e distúrbios psicológicos. O evento gerou pânico em massa, contribuindo para **um aumento alarmante no número de suicídios ao redor do mundo**.
 
